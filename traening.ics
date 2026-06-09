@@ -1,0 +1,5570 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Traening Automation//Marathon Plan//DA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Træning
+X-WR-TIMEZONE:Europe/Copenhagen
+BEGIN:VTIMEZONE
+TZID:Europe/Copenhagen
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:run-uge-1-mandag-2026-06-08@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260608T120000
+DTEND;TZID=Europe/Copenhagen:20260608T123000
+SUMMARY:Interval
+DESCRIPTION:1\,5 km opvarmning @ 5:35 til 6:05/km.\n6x200 m @ 3:55 til
+  4:05/km.\nPause: 200 m jog mellem reps.\n1\,3 km nedjog @ 5:45 til 6:
+ 15/km.\nTotal 5 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-1-tirsdag-2026-06-09@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260609T120000
+DTEND;TZID=Europe/Copenhagen:20260609T122500
+SUMMARY:Rolig
+DESCRIPTION:1 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-1-tirsdag-2026-06-09@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260609T124000
+DTEND;TZID=Europe/Copenhagen:20260609T133000
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-1-onsdag-2026-06-10@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260610T120000
+DTEND;TZID=Europe/Copenhagen:20260610T122900
+SUMMARY:Rolig
+DESCRIPTION:5 km roligt @ 5:50 til 6:15/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-1-torsdag-2026-06-11@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260611T120000
+DTEND;TZID=Europe/Copenhagen:20260611T123500
+SUMMARY:Rolig
+DESCRIPTION:6 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-1-torsdag-2026-06-11@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260611T125000
+DTEND;TZID=Europe/Copenhagen:20260611T133500
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-1-fredag-2026-06-12@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260612T120000
+DTEND;TZID=Europe/Copenhagen:20260612T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-1-lørdag-2026-06-13@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260613T120000
+DTEND;TZID=Europe/Copenhagen:20260613T124600
+SUMMARY:Long
+DESCRIPTION:8 km langtur @ 5:35 til 6:10/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-1-søndag-2026-06-14@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260614T120000
+DTEND;TZID=Europe/Copenhagen:20260614T123000
+SUMMARY:Recovery
+DESCRIPTION:5 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-1-søndag-2026-06-14@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260614T124500
+DTEND;TZID=Europe/Copenhagen:20260614T131500
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-2-mandag-2026-06-15@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260615T120000
+DTEND;TZID=Europe/Copenhagen:20260615T123600
+SUMMARY:Interval
+DESCRIPTION:1\,5 km opvarmning @ 5:35 til 6:05/km.\n8x200 m @ 3:50 til
+  4:00/km.\nPause: 200 m jog mellem reps.\n1\,2 km nedjog @ 5:45 til 6:
+ 15/km.\nTotal 6 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-2-tirsdag-2026-06-16@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260616T120000
+DTEND;TZID=Europe/Copenhagen:20260616T122500
+SUMMARY:Rolig
+DESCRIPTION:4 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-2-tirsdag-2026-06-16@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260616T124000
+DTEND;TZID=Europe/Copenhagen:20260616T133000
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-2-onsdag-2026-06-17@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260617T120000
+DTEND;TZID=Europe/Copenhagen:20260617T123300
+SUMMARY:Interval
+DESCRIPTION:1\,5 km opvarmning @ 5:35 til 6:05/km.\n2x1 km @ 4:25 til 
+ 4:35/km.\nPause: 0\,5 km jog mellem reps.\n1\,5 km nedjog @ 5:45 til 6
+ :15/km.\nTotal 5\,5 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-2-torsdag-2026-06-18@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260618T120000
+DTEND;TZID=Europe/Copenhagen:20260618T122900
+SUMMARY:Rolig
+DESCRIPTION:5 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-2-torsdag-2026-06-18@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260618T124400
+DTEND;TZID=Europe/Copenhagen:20260618T132900
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-2-fredag-2026-06-19@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260619T120000
+DTEND;TZID=Europe/Copenhagen:20260619T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-2-lørdag-2026-06-20@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260620T120000
+DTEND;TZID=Europe/Copenhagen:20260620T125800
+SUMMARY:Long
+DESCRIPTION:10 km langtur @ 5:35 til 6:10/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-2-søndag-2026-06-21@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260621T120000
+DTEND;TZID=Europe/Copenhagen:20260621T123000
+SUMMARY:Recovery
+DESCRIPTION:5 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-2-søndag-2026-06-21@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260621T124500
+DTEND;TZID=Europe/Copenhagen:20260621T131500
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-3-mandag-2026-06-22@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260622T120000
+DTEND;TZID=Europe/Copenhagen:20260622T124200
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6x400 m @ 4:00 til 4:
+ 08/km.\nPause: 200 m jog mellem reps.\n1\,6 km nedjog @ 5:45 til 6:15/
+ km.\nTotal 7 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-3-tirsdag-2026-06-23@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260623T120000
+DTEND;TZID=Europe/Copenhagen:20260623T122500
+SUMMARY:Rolig
+DESCRIPTION:4 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-3-tirsdag-2026-06-23@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260623T124000
+DTEND;TZID=Europe/Copenhagen:20260623T133000
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-3-onsdag-2026-06-24@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260624T120000
+DTEND;TZID=Europe/Copenhagen:20260624T124500
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n2x1\,5 km @ 4:20 til 
+ 4:30/km.\nPause: 0\,5 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15
+ /km.\nTotal 7\,5 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-3-torsdag-2026-06-25@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260625T120000
+DTEND;TZID=Europe/Copenhagen:20260625T123500
+SUMMARY:Rolig
+DESCRIPTION:6 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-3-torsdag-2026-06-25@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260625T125000
+DTEND;TZID=Europe/Copenhagen:20260625T133500
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-3-fredag-2026-06-26@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260626T120000
+DTEND;TZID=Europe/Copenhagen:20260626T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-3-lørdag-2026-06-27@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260627T120000
+DTEND;TZID=Europe/Copenhagen:20260627T131000
+SUMMARY:Long
+DESCRIPTION:12 km langtur @ 5:35 til 6:10/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-3-søndag-2026-06-28@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260628T120000
+DTEND;TZID=Europe/Copenhagen:20260628T123000
+SUMMARY:Recovery
+DESCRIPTION:5 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-3-søndag-2026-06-28@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260628T124500
+DTEND;TZID=Europe/Copenhagen:20260628T131500
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-4-mandag-2026-06-29@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260629T120000
+DTEND;TZID=Europe/Copenhagen:20260629T124200
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n5x400 m @ 3:55 til 4:
+ 05/km.\nPause: 200 m jog mellem reps.\n2\,2 km nedjog @ 5:45 til 6:15/
+ km.\nTotal 7 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-4-tirsdag-2026-06-30@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260630T120000
+DTEND;TZID=Europe/Copenhagen:20260630T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-4-onsdag-2026-07-01@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260701T120000
+DTEND;TZID=Europe/Copenhagen:20260701T124800
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n2x2 km @ 4:15 til 4:2
+ 5/km.\nPause: 0\,5 km jog mellem reps.\n1\,5 km nedjog @ 5:45 til 6:15
+ /km.\nTotal 8 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-4-torsdag-2026-07-02@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260702T120000
+DTEND;TZID=Europe/Copenhagen:20260702T123500
+SUMMARY:Rolig
+DESCRIPTION:6 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-4-torsdag-2026-07-02@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260702T125000
+DTEND;TZID=Europe/Copenhagen:20260702T133500
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-4-fredag-2026-07-03@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260703T120000
+DTEND;TZID=Europe/Copenhagen:20260703T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-4-lørdag-2026-07-04@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260704T120000
+DTEND;TZID=Europe/Copenhagen:20260704T125800
+SUMMARY:Long
+DESCRIPTION:10 km langtur @ 5:35 til 6:10/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-4-søndag-2026-07-05@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260705T120000
+DTEND;TZID=Europe/Copenhagen:20260705T123000
+SUMMARY:Recovery
+DESCRIPTION:5 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-4-søndag-2026-07-05@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260705T124500
+DTEND;TZID=Europe/Copenhagen:20260705T131500
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-5-mandag-2026-07-06@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260706T120000
+DTEND;TZID=Europe/Copenhagen:20260706T124500
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n8x200 m @ 3:45 til 3:
+ 55/km.\nPause: 200 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 7\,5 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-5-tirsdag-2026-07-07@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260707T120000
+DTEND;TZID=Europe/Copenhagen:20260707T122500
+SUMMARY:Rolig
+DESCRIPTION:4 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-5-tirsdag-2026-07-07@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260707T124000
+DTEND;TZID=Europe/Copenhagen:20260707T133000
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-5-onsdag-2026-07-08@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260708T120000
+DTEND;TZID=Europe/Copenhagen:20260708T124800
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n3x1 km @ 4:18 til 4:2
+ 8/km.\nPause: 0\,4 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 8 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-5-torsdag-2026-07-09@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260709T120000
+DTEND;TZID=Europe/Copenhagen:20260709T123500
+SUMMARY:Rolig
+DESCRIPTION:6 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-5-torsdag-2026-07-09@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260709T125000
+DTEND;TZID=Europe/Copenhagen:20260709T133500
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-5-fredag-2026-07-10@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260710T120000
+DTEND;TZID=Europe/Copenhagen:20260710T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-5-lørdag-2026-07-11@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260711T120000
+DTEND;TZID=Europe/Copenhagen:20260711T132100
+SUMMARY:Long
+DESCRIPTION:14 km langtur @ 5:25 til 6:00/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-5-søndag-2026-07-12@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260712T120000
+DTEND;TZID=Europe/Copenhagen:20260712T123000
+SUMMARY:Recovery
+DESCRIPTION:5 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-5-søndag-2026-07-12@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260712T124500
+DTEND;TZID=Europe/Copenhagen:20260712T131500
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-6-mandag-2026-07-13@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260713T120000
+DTEND;TZID=Europe/Copenhagen:20260713T124800
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6x400 m @ 3:55 til 4:
+ 03/km.\nPause: 200 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 8 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-6-tirsdag-2026-07-14@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260714T120000
+DTEND;TZID=Europe/Copenhagen:20260714T123500
+SUMMARY:Rolig
+DESCRIPTION:6 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-6-tirsdag-2026-07-14@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260714T125000
+DTEND;TZID=Europe/Copenhagen:20260714T134000
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-6-onsdag-2026-07-15@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260715T120000
+DTEND;TZID=Europe/Copenhagen:20260715T125100
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n2x2 km @ 4:15 til 4:2
+ 5/km.\nPause: 0\,5 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 8\,5 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-6-torsdag-2026-07-16@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260716T120000
+DTEND;TZID=Europe/Copenhagen:20260716T123500
+SUMMARY:Rolig
+DESCRIPTION:6 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-6-torsdag-2026-07-16@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260716T125000
+DTEND;TZID=Europe/Copenhagen:20260716T133500
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-6-fredag-2026-07-17@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260717T120000
+DTEND;TZID=Europe/Copenhagen:20260717T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-6-lørdag-2026-07-18@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260718T120000
+DTEND;TZID=Europe/Copenhagen:20260718T132700
+SUMMARY:Long
+DESCRIPTION:15 km langtur @ 5:25 til 6:00/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-6-søndag-2026-07-19@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260719T120000
+DTEND;TZID=Europe/Copenhagen:20260719T123600
+SUMMARY:Recovery
+DESCRIPTION:6 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-6-søndag-2026-07-19@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260719T125100
+DTEND;TZID=Europe/Copenhagen:20260719T132100
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-7-mandag-2026-07-20@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260720T120000
+DTEND;TZID=Europe/Copenhagen:20260720T125400
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n5x600 m @ 3:55 til 4:
+ 02/km.\nPause: 300 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 9 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-7-tirsdag-2026-07-21@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260721T120000
+DTEND;TZID=Europe/Copenhagen:20260721T123500
+SUMMARY:Rolig
+DESCRIPTION:6 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-7-tirsdag-2026-07-21@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260721T125000
+DTEND;TZID=Europe/Copenhagen:20260721T134000
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-7-onsdag-2026-07-22@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260722T120000
+DTEND;TZID=Europe/Copenhagen:20260722T130000
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n3x1\,5 km @ 4:12 til 
+ 4:22/km.\nPause: 0\,5 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15
+ /km.\nTotal 10 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-7-torsdag-2026-07-23@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260723T120000
+DTEND;TZID=Europe/Copenhagen:20260723T124100
+SUMMARY:Rolig
+DESCRIPTION:7 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-7-torsdag-2026-07-23@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260723T125600
+DTEND;TZID=Europe/Copenhagen:20260723T134100
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-7-fredag-2026-07-24@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260724T120000
+DTEND;TZID=Europe/Copenhagen:20260724T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-7-lørdag-2026-07-25@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260725T120000
+DTEND;TZID=Europe/Copenhagen:20260725T133300
+SUMMARY:Long
+DESCRIPTION:16 km langtur @ 5:25 til 6:00/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-7-søndag-2026-07-26@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260726T120000
+DTEND;TZID=Europe/Copenhagen:20260726T123600
+SUMMARY:Recovery
+DESCRIPTION:6 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-7-søndag-2026-07-26@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260726T125100
+DTEND;TZID=Europe/Copenhagen:20260726T132100
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-8-mandag-2026-07-27@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260727T120000
+DTEND;TZID=Europe/Copenhagen:20260727T125400
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n8x400 m @ 3:50 til 3:
+ 58/km.\nPause: 200 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 9 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-8-tirsdag-2026-07-28@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260728T120000
+DTEND;TZID=Europe/Copenhagen:20260728T124100
+SUMMARY:Rolig
+DESCRIPTION:7 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-8-tirsdag-2026-07-28@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260728T125600
+DTEND;TZID=Europe/Copenhagen:20260728T134600
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-8-onsdag-2026-07-29@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260729T120000
+DTEND;TZID=Europe/Copenhagen:20260729T125700
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n2x2\,5 km @ 4:10 til 
+ 4:20/km.\nPause: 0\,7 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15
+ /km.\nTotal 9\,5 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-8-torsdag-2026-07-30@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260730T120000
+DTEND;TZID=Europe/Copenhagen:20260730T124100
+SUMMARY:Rolig
+DESCRIPTION:7 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-8-torsdag-2026-07-30@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260730T125600
+DTEND;TZID=Europe/Copenhagen:20260730T134100
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-8-fredag-2026-07-31@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260731T120000
+DTEND;TZID=Europe/Copenhagen:20260731T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-8-lørdag-2026-08-01@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260801T120000
+DTEND;TZID=Europe/Copenhagen:20260801T133900
+SUMMARY:Long
+DESCRIPTION:17 km langtur @ 5:25 til 6:00/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-8-søndag-2026-08-02@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260802T120000
+DTEND;TZID=Europe/Copenhagen:20260802T124800
+SUMMARY:Recovery
+DESCRIPTION:8 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-8-søndag-2026-08-02@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260802T130300
+DTEND;TZID=Europe/Copenhagen:20260802T133300
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-9-mandag-2026-08-03@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260803T120000
+DTEND;TZID=Europe/Copenhagen:20260803T125100
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n4x800 m @ 3:55 til 4:
+ 02/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 8\,5 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-9-tirsdag-2026-08-04@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260804T120000
+DTEND;TZID=Europe/Copenhagen:20260804T122500
+SUMMARY:Rolig
+DESCRIPTION:4 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-9-tirsdag-2026-08-04@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260804T124000
+DTEND;TZID=Europe/Copenhagen:20260804T133000
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-9-onsdag-2026-08-05@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260805T120000
+DTEND;TZID=Europe/Copenhagen:20260805T130600
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n3x2 km @ 4:10 til 4:2
+ 0/km.\nPause: 0\,5 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 11 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-9-torsdag-2026-08-06@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260806T120000
+DTEND;TZID=Europe/Copenhagen:20260806T122900
+SUMMARY:Rolig
+DESCRIPTION:5 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-9-torsdag-2026-08-06@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260806T124400
+DTEND;TZID=Europe/Copenhagen:20260806T132900
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-9-fredag-2026-08-07@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260807T120000
+DTEND;TZID=Europe/Copenhagen:20260807T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-9-lørdag-2026-08-08@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260808T120000
+DTEND;TZID=Europe/Copenhagen:20260808T132100
+SUMMARY:Long
+DESCRIPTION:14 km langtur @ 5:25 til 6:00/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-9-søndag-2026-08-09@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260809T120000
+DTEND;TZID=Europe/Copenhagen:20260809T123000
+SUMMARY:Recovery
+DESCRIPTION:5 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-9-søndag-2026-08-09@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260809T124500
+DTEND;TZID=Europe/Copenhagen:20260809T131500
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-10-mandag-2026-08-10@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260810T120000
+DTEND;TZID=Europe/Copenhagen:20260810T130300
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n5x1 km @ 3:58 til 4:0
+ 5/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.\
+ nTotal 10\,5 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-10-tirsdag-2026-08-11@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260811T120000
+DTEND;TZID=Europe/Copenhagen:20260811T124100
+SUMMARY:Rolig
+DESCRIPTION:7 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-10-tirsdag-2026-08-11@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260811T125600
+DTEND;TZID=Europe/Copenhagen:20260811T134600
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-10-onsdag-2026-08-12@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260812T120000
+DTEND;TZID=Europe/Copenhagen:20260812T125100
+SUMMARY:Tempo
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n5 km @ 4:12 til 4:22/
+ km.\n2 km nedjog @ 5:45 til 6:15/km.\nTotal 9 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-10-torsdag-2026-08-13@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260813T120000
+DTEND;TZID=Europe/Copenhagen:20260813T124100
+SUMMARY:Rolig
+DESCRIPTION:7 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-10-torsdag-2026-08-13@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260813T125600
+DTEND;TZID=Europe/Copenhagen:20260813T134100
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-10-fredag-2026-08-14@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260814T120000
+DTEND;TZID=Europe/Copenhagen:20260814T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-10-lørdag-2026-08-15@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260815T120000
+DTEND;TZID=Europe/Copenhagen:20260815T134400
+SUMMARY:Long
+DESCRIPTION:18 km langtur @ 5:25 til 6:00/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-10-søndag-2026-08-16@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260816T120000
+DTEND;TZID=Europe/Copenhagen:20260816T124800
+SUMMARY:Recovery
+DESCRIPTION:8 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-10-søndag-2026-08-16@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260816T130300
+DTEND;TZID=Europe/Copenhagen:20260816T133300
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-11-mandag-2026-08-17@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260817T120000
+DTEND;TZID=Europe/Copenhagen:20260817T130600
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6x800 m @ 3:50 til 3:
+ 58/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 11 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-11-tirsdag-2026-08-18@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260818T120000
+DTEND;TZID=Europe/Copenhagen:20260818T124600
+SUMMARY:Rolig
+DESCRIPTION:8 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-11-tirsdag-2026-08-18@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260818T130100
+DTEND;TZID=Europe/Copenhagen:20260818T135100
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-11-onsdag-2026-08-19@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260819T120000
+DTEND;TZID=Europe/Copenhagen:20260819T130600
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n3x2 km @ 4:05 til 4:1
+ 5/km.\nPause: 0\,5 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 11 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-11-torsdag-2026-08-20@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260820T120000
+DTEND;TZID=Europe/Copenhagen:20260820T125200
+SUMMARY:Rolig
+DESCRIPTION:9 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-11-torsdag-2026-08-20@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260820T130700
+DTEND;TZID=Europe/Copenhagen:20260820T135200
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-11-fredag-2026-08-21@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260821T120000
+DTEND;TZID=Europe/Copenhagen:20260821T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-11-lørdag-2026-08-22@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260822T120000
+DTEND;TZID=Europe/Copenhagen:20260822T134400
+SUMMARY:Long
+DESCRIPTION:18 km langtur @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-11-søndag-2026-08-23@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260823T120000
+DTEND;TZID=Europe/Copenhagen:20260823T124200
+SUMMARY:Recovery
+DESCRIPTION:7 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-11-søndag-2026-08-23@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260823T125700
+DTEND;TZID=Europe/Copenhagen:20260823T132700
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-12-mandag-2026-08-24@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260824T120000
+DTEND;TZID=Europe/Copenhagen:20260824T130600
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n5x1 km @ 3:50 til 3:5
+ 8/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.\
+ nTotal 11 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-12-tirsdag-2026-08-25@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260825T120000
+DTEND;TZID=Europe/Copenhagen:20260825T124600
+SUMMARY:Rolig
+DESCRIPTION:8 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-12-tirsdag-2026-08-25@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260825T130100
+DTEND;TZID=Europe/Copenhagen:20260825T135100
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-12-onsdag-2026-08-26@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260826T120000
+DTEND;TZID=Europe/Copenhagen:20260826T130600
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n2x3 km @ 4:05 til 4:1
+ 5/km.\nPause: 0\,8 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 11 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-12-torsdag-2026-08-27@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260827T120000
+DTEND;TZID=Europe/Copenhagen:20260827T125800
+SUMMARY:Rolig
+DESCRIPTION:10 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-12-torsdag-2026-08-27@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260827T131300
+DTEND;TZID=Europe/Copenhagen:20260827T135800
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-12-fredag-2026-08-28@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260828T120000
+DTEND;TZID=Europe/Copenhagen:20260828T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-12-lørdag-2026-08-29@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260829T120000
+DTEND;TZID=Europe/Copenhagen:20260829T135600
+SUMMARY:Long
+DESCRIPTION:20 km langtur @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-12-søndag-2026-08-30@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260830T120000
+DTEND;TZID=Europe/Copenhagen:20260830T124800
+SUMMARY:Recovery
+DESCRIPTION:8 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-12-søndag-2026-08-30@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260830T130300
+DTEND;TZID=Europe/Copenhagen:20260830T133300
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-13-mandag-2026-08-31@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260831T120000
+DTEND;TZID=Europe/Copenhagen:20260831T130000
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n10x400 m @ 3:40 til 3
+ :50/km.\nPause: 200 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 10 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-13-tirsdag-2026-09-01@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260901T120000
+DTEND;TZID=Europe/Copenhagen:20260901T123500
+SUMMARY:Rolig
+DESCRIPTION:6 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-13-tirsdag-2026-09-01@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260901T125000
+DTEND;TZID=Europe/Copenhagen:20260901T134000
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-13-onsdag-2026-09-02@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260902T120000
+DTEND;TZID=Europe/Copenhagen:20260902T125700
+SUMMARY:Tempo
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6 km @ 4:05 til 4:15/
+ km.\n2 km nedjog @ 5:45 til 6:15/km.\nTotal 10 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-13-torsdag-2026-09-03@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260903T120000
+DTEND;TZID=Europe/Copenhagen:20260903T124100
+SUMMARY:Rolig
+DESCRIPTION:7 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-13-torsdag-2026-09-03@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260903T125600
+DTEND;TZID=Europe/Copenhagen:20260903T134100
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-13-fredag-2026-09-04@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260904T120000
+DTEND;TZID=Europe/Copenhagen:20260904T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-13-lørdag-2026-09-05@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260905T120000
+DTEND;TZID=Europe/Copenhagen:20260905T133300
+SUMMARY:Long
+DESCRIPTION:16 km langtur @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-13-søndag-2026-09-06@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260906T120000
+DTEND;TZID=Europe/Copenhagen:20260906T123600
+SUMMARY:Recovery
+DESCRIPTION:6 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-13-søndag-2026-09-06@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260906T125100
+DTEND;TZID=Europe/Copenhagen:20260906T132100
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-14-mandag-2026-09-07@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260907T120000
+DTEND;TZID=Europe/Copenhagen:20260907T131200
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6x1 km @ 3:48 til 3:5
+ 5/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.\
+ nTotal 12 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-14-tirsdag-2026-09-08@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260908T120000
+DTEND;TZID=Europe/Copenhagen:20260908T124600
+SUMMARY:Rolig
+DESCRIPTION:8 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-14-tirsdag-2026-09-08@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260908T130100
+DTEND;TZID=Europe/Copenhagen:20260908T135100
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-14-onsdag-2026-09-09@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260909T120000
+DTEND;TZID=Europe/Copenhagen:20260909T131200
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n4x2 km @ 4:02 til 4:1
+ 0/km.\nPause: 0\,5 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 12 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-14-torsdag-2026-09-10@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260910T120000
+DTEND;TZID=Europe/Copenhagen:20260910T125200
+SUMMARY:Rolig
+DESCRIPTION:9 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-14-torsdag-2026-09-10@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260910T130700
+DTEND;TZID=Europe/Copenhagen:20260910T135200
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-14-fredag-2026-09-11@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260911T120000
+DTEND;TZID=Europe/Copenhagen:20260911T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-14-lørdag-2026-09-12@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260912T120000
+DTEND;TZID=Europe/Copenhagen:20260912T135600
+SUMMARY:Long
+DESCRIPTION:20 km langtur @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-14-søndag-2026-09-13@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260913T120000
+DTEND;TZID=Europe/Copenhagen:20260913T124200
+SUMMARY:Recovery
+DESCRIPTION:7 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-14-søndag-2026-09-13@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260913T125700
+DTEND;TZID=Europe/Copenhagen:20260913T132700
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-15-mandag-2026-09-14@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260914T120000
+DTEND;TZID=Europe/Copenhagen:20260914T131200
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n5x1\,2 km @ 3:48 til 
+ 3:55/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/k
+ m.\nTotal 12 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-15-tirsdag-2026-09-15@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260915T120000
+DTEND;TZID=Europe/Copenhagen:20260915T125200
+SUMMARY:Rolig
+DESCRIPTION:9 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-15-tirsdag-2026-09-15@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260915T130700
+DTEND;TZID=Europe/Copenhagen:20260915T135700
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-15-onsdag-2026-09-16@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260916T120000
+DTEND;TZID=Europe/Copenhagen:20260916T130600
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n3x2 km @ 4:00 til 4:0
+ 8/km.\nPause: 0\,5 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 11 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-15-torsdag-2026-09-17@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260917T120000
+DTEND;TZID=Europe/Copenhagen:20260917T125800
+SUMMARY:Rolig
+DESCRIPTION:10 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-15-torsdag-2026-09-17@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260917T131300
+DTEND;TZID=Europe/Copenhagen:20260917T135800
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-15-fredag-2026-09-18@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260918T120000
+DTEND;TZID=Europe/Copenhagen:20260918T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-15-lørdag-2026-09-19@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260919T120000
+DTEND;TZID=Europe/Copenhagen:20260919T140800
+SUMMARY:Long
+DESCRIPTION:22 km langtur @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-15-søndag-2026-09-20@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260920T120000
+DTEND;TZID=Europe/Copenhagen:20260920T124800
+SUMMARY:Recovery
+DESCRIPTION:8 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-15-søndag-2026-09-20@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260920T130300
+DTEND;TZID=Europe/Copenhagen:20260920T133300
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-16-mandag-2026-09-21@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260921T120000
+DTEND;TZID=Europe/Copenhagen:20260921T124800
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6x400 m @ 3:40 til 3:
+ 48/km.\nPause: 200 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 8 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-16-tirsdag-2026-09-22@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260922T120000
+DTEND;TZID=Europe/Copenhagen:20260922T124600
+SUMMARY:Rolig
+DESCRIPTION:8 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-16-tirsdag-2026-09-22@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260922T130100
+DTEND;TZID=Europe/Copenhagen:20260922T134100
+SUMMARY:Styrke
+DESCRIPTION:Let styrke A 50 procent belastning.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-16-onsdag-2026-09-23@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260923T120000
+DTEND;TZID=Europe/Copenhagen:20260923T124600
+SUMMARY:Tempo
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n4 km @ 4:05 til 4:12/
+ km.\n2 km nedjog @ 5:45 til 6:15/km.\nTotal 8 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-16-torsdag-2026-09-24@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260924T120000
+DTEND;TZID=Europe/Copenhagen:20260924T124100
+SUMMARY:Rolig
+DESCRIPTION:7 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-16-torsdag-2026-09-24@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260924T125600
+DTEND;TZID=Europe/Copenhagen:20260924T131600
+SUMMARY:Mobilitet
+DESCRIPTION:Let mobilitet og aktivering.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-16-fredag-2026-09-25@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260925T120000
+DTEND;TZID=Europe/Copenhagen:20260925T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-16-lørdag-2026-09-26@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260926T120000
+DTEND;TZID=Europe/Copenhagen:20260926T123600
+SUMMARY:Race
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n5 km race.\nMålpace 
+ 3:35 til 3:36/km.\n2 km nedjog @ 5:45 til 6:15/km.\nTotal 9 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-16-søndag-2026-09-27@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260927T120000
+DTEND;TZID=Europe/Copenhagen:20260927T124900
+SUMMARY:Recovery
+DESCRIPTION:8 km recovery @ 5:45 til 6:15/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-16-søndag-2026-09-27@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260927T130400
+DTEND;TZID=Europe/Copenhagen:20260927T133400
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-17-mandag-2026-09-28@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260928T120000
+DTEND;TZID=Europe/Copenhagen:20260928T130600
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n12x400 m @ 3:35 til 3
+ :45/km.\nPause: 200 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 11 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-17-tirsdag-2026-09-29@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260929T120000
+DTEND;TZID=Europe/Copenhagen:20260929T125200
+SUMMARY:Rolig
+DESCRIPTION:9 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-17-tirsdag-2026-09-29@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260929T130700
+DTEND;TZID=Europe/Copenhagen:20260929T135700
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-17-onsdag-2026-09-30@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20260930T120000
+DTEND;TZID=Europe/Copenhagen:20260930T131800
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n3x3 km @ 3:58 til 4:0
+ 5/km.\nPause: 0\,8 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 13 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-17-torsdag-2026-10-01@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261001T120000
+DTEND;TZID=Europe/Copenhagen:20261001T125800
+SUMMARY:Rolig
+DESCRIPTION:10 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-17-torsdag-2026-10-01@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261001T131300
+DTEND;TZID=Europe/Copenhagen:20261001T135800
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-17-fredag-2026-10-02@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261002T120000
+DTEND;TZID=Europe/Copenhagen:20261002T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-17-lørdag-2026-10-03@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261003T120000
+DTEND;TZID=Europe/Copenhagen:20261003T140800
+SUMMARY:Long
+DESCRIPTION:22 km langtur @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-17-søndag-2026-10-04@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261004T120000
+DTEND;TZID=Europe/Copenhagen:20261004T125400
+SUMMARY:Recovery
+DESCRIPTION:9 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-17-søndag-2026-10-04@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261004T130900
+DTEND;TZID=Europe/Copenhagen:20261004T133900
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-18-mandag-2026-10-05@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261005T120000
+DTEND;TZID=Europe/Copenhagen:20261005T131200
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6x800 m @ 3:38 til 3:
+ 45/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 12 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-18-tirsdag-2026-10-06@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261006T120000
+DTEND;TZID=Europe/Copenhagen:20261006T125200
+SUMMARY:Rolig
+DESCRIPTION:9 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-18-tirsdag-2026-10-06@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261006T130700
+DTEND;TZID=Europe/Copenhagen:20261006T135700
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-18-onsdag-2026-10-07@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261007T120000
+DTEND;TZID=Europe/Copenhagen:20261007T131200
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n5x1\,6 km @ 3:58 til 
+ 4:05/km.\nPause: 0\,4 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15
+ /km.\nTotal 12 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-18-torsdag-2026-10-08@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261008T120000
+DTEND;TZID=Europe/Copenhagen:20261008T125800
+SUMMARY:Rolig
+DESCRIPTION:10 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-18-torsdag-2026-10-08@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261008T131300
+DTEND;TZID=Europe/Copenhagen:20261008T135800
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-18-fredag-2026-10-09@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261009T120000
+DTEND;TZID=Europe/Copenhagen:20261009T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-18-lørdag-2026-10-10@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261010T120000
+DTEND;TZID=Europe/Copenhagen:20261010T141900
+SUMMARY:Long
+DESCRIPTION:24 km langtur @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-18-søndag-2026-10-11@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261011T120000
+DTEND;TZID=Europe/Copenhagen:20261011T125400
+SUMMARY:Recovery
+DESCRIPTION:9 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-18-søndag-2026-10-11@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261011T130900
+DTEND;TZID=Europe/Copenhagen:20261011T133900
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-19-mandag-2026-10-12@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261012T120000
+DTEND;TZID=Europe/Copenhagen:20261012T125700
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n4x1 km @ 3:40 til 3:4
+ 8/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.\
+ nTotal 9\,5 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-19-tirsdag-2026-10-13@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261013T120000
+DTEND;TZID=Europe/Copenhagen:20261013T132100
+SUMMARY:Rolig
+DESCRIPTION:14 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-19-tirsdag-2026-10-13@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261013T133600
+DTEND;TZID=Europe/Copenhagen:20261013T142600
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-19-onsdag-2026-10-14@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261014T120000
+DTEND;TZID=Europe/Copenhagen:20261014T125100
+SUMMARY:Tempo
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n5 km @ 4:00 til 4:08/
+ km.\n2 km nedjog @ 5:45 til 6:15/km.\nTotal 9 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-19-torsdag-2026-10-15@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261015T120000
+DTEND;TZID=Europe/Copenhagen:20261015T132700
+SUMMARY:Rolig
+DESCRIPTION:15 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-19-torsdag-2026-10-15@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261015T134200
+DTEND;TZID=Europe/Copenhagen:20261015T142700
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-19-fredag-2026-10-16@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261016T120000
+DTEND;TZID=Europe/Copenhagen:20261016T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-19-lørdag-2026-10-17@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261017T120000
+DTEND;TZID=Europe/Copenhagen:20261017T134400
+SUMMARY:Long
+DESCRIPTION:18 km langtur @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-19-søndag-2026-10-18@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261018T120000
+DTEND;TZID=Europe/Copenhagen:20261018T131200
+SUMMARY:Recovery
+DESCRIPTION:12 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-19-søndag-2026-10-18@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261018T132700
+DTEND;TZID=Europe/Copenhagen:20261018T135700
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-20-mandag-2026-10-19@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261019T120000
+DTEND;TZID=Europe/Copenhagen:20261019T124800
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6x400 m @ 3:35 til 3:
+ 42/km.\nPause: 200 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 8 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-20-tirsdag-2026-10-20@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261020T120000
+DTEND;TZID=Europe/Copenhagen:20261020T124600
+SUMMARY:Rolig
+DESCRIPTION:8 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-20-tirsdag-2026-10-20@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261020T130100
+DTEND;TZID=Europe/Copenhagen:20261020T134100
+SUMMARY:Styrke
+DESCRIPTION:Let styrke A 50 procent belastning.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-20-onsdag-2026-10-21@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261021T120000
+DTEND;TZID=Europe/Copenhagen:20261021T124000
+SUMMARY:Tempo
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n3 km @ 4:05 til 4:12/
+ km.\n2 km nedjog @ 5:45 til 6:15/km.\nTotal 7 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-20-torsdag-2026-10-22@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261022T120000
+DTEND;TZID=Europe/Copenhagen:20261022T124100
+SUMMARY:Rolig
+DESCRIPTION:7 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-20-torsdag-2026-10-22@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261022T125600
+DTEND;TZID=Europe/Copenhagen:20261022T131600
+SUMMARY:Mobilitet
+DESCRIPTION:Let mobilitet og aktivering.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-20-fredag-2026-10-23@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261023T120000
+DTEND;TZID=Europe/Copenhagen:20261023T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-20-lørdag-2026-10-24@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261024T120000
+DTEND;TZID=Europe/Copenhagen:20261024T123600
+SUMMARY:Race
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n5 km race.\nMålpace 
+ 3:35 til 3:36/km.\n2 km nedjog @ 5:45 til 6:15/km.\nTotal 9 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-20-søndag-2026-10-25@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261025T120000
+DTEND;TZID=Europe/Copenhagen:20261025T124900
+SUMMARY:Recovery
+DESCRIPTION:8 km recovery @ 5:45 til 6:15/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-20-søndag-2026-10-25@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261025T130400
+DTEND;TZID=Europe/Copenhagen:20261025T133400
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-21-mandag-2026-10-26@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261026T120000
+DTEND;TZID=Europe/Copenhagen:20261026T131200
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n5x1\,2 km @ 3:45 til 
+ 3:52/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/k
+ m.\nTotal 12 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-21-tirsdag-2026-10-27@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261027T120000
+DTEND;TZID=Europe/Copenhagen:20261027T125200
+SUMMARY:Rolig
+DESCRIPTION:9 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-21-tirsdag-2026-10-27@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261027T130700
+DTEND;TZID=Europe/Copenhagen:20261027T135700
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-21-onsdag-2026-10-28@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261028T120000
+DTEND;TZID=Europe/Copenhagen:20261028T131800
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n3x3 km @ 3:55 til 4:0
+ 3/km.\nPause: 0\,8 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 13 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-21-torsdag-2026-10-29@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261029T120000
+DTEND;TZID=Europe/Copenhagen:20261029T130400
+SUMMARY:Rolig
+DESCRIPTION:11 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-21-torsdag-2026-10-29@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261029T131900
+DTEND;TZID=Europe/Copenhagen:20261029T140400
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-21-fredag-2026-10-30@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261030T120000
+DTEND;TZID=Europe/Copenhagen:20261030T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-21-lørdag-2026-10-31@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261031T120000
+DTEND;TZID=Europe/Copenhagen:20261031T141900
+SUMMARY:Long
+DESCRIPTION:24 km langtur @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-21-søndag-2026-11-01@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261101T120000
+DTEND;TZID=Europe/Copenhagen:20261101T125400
+SUMMARY:Recovery
+DESCRIPTION:9 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-21-søndag-2026-11-01@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261101T130900
+DTEND;TZID=Europe/Copenhagen:20261101T133900
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-22-mandag-2026-11-02@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261102T120000
+DTEND;TZID=Europe/Copenhagen:20261102T130900
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n4x1\,5 km @ 3:48 til 
+ 3:55/km.\nPause: 500 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/k
+ m.\nTotal 11\,5 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-22-tirsdag-2026-11-03@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261103T120000
+DTEND;TZID=Europe/Copenhagen:20261103T125800
+SUMMARY:Rolig
+DESCRIPTION:10 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-22-tirsdag-2026-11-03@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261103T131300
+DTEND;TZID=Europe/Copenhagen:20261103T140300
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-22-onsdag-2026-11-04@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261104T120000
+DTEND;TZID=Europe/Copenhagen:20261104T131200
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n4x2 km @ 3:55 til 4:0
+ 3/km.\nPause: 0\,5 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 12 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-22-torsdag-2026-11-05@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261105T120000
+DTEND;TZID=Europe/Copenhagen:20261105T131000
+SUMMARY:Rolig
+DESCRIPTION:12 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-22-torsdag-2026-11-05@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261105T132500
+DTEND;TZID=Europe/Copenhagen:20261105T141000
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-22-fredag-2026-11-06@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261106T120000
+DTEND;TZID=Europe/Copenhagen:20261106T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-22-lørdag-2026-11-07@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261107T120000
+DTEND;TZID=Europe/Copenhagen:20261107T141900
+SUMMARY:Long
+DESCRIPTION:24 km langtur @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-22-søndag-2026-11-08@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261108T120000
+DTEND;TZID=Europe/Copenhagen:20261108T130000
+SUMMARY:Recovery
+DESCRIPTION:10 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-22-søndag-2026-11-08@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261108T131500
+DTEND;TZID=Europe/Copenhagen:20261108T134500
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-23-mandag-2026-11-09@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261109T120000
+DTEND;TZID=Europe/Copenhagen:20261109T131200
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6x1 km @ 3:43 til 3:5
+ 0/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.\
+ nTotal 12 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-23-tirsdag-2026-11-10@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261110T120000
+DTEND;TZID=Europe/Copenhagen:20261110T124100
+SUMMARY:Rolig
+DESCRIPTION:7 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-23-tirsdag-2026-11-10@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261110T125600
+DTEND;TZID=Europe/Copenhagen:20261110T134600
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-23-onsdag-2026-11-11@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261111T120000
+DTEND;TZID=Europe/Copenhagen:20261111T131800
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n2x4 km @ 3:55 til 4:0
+ 2/km.\nPause: 1 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.\n
+ Total 13 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-23-torsdag-2026-11-12@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261112T120000
+DTEND;TZID=Europe/Copenhagen:20261112T124600
+SUMMARY:Rolig
+DESCRIPTION:8 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-23-torsdag-2026-11-12@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261112T130100
+DTEND;TZID=Europe/Copenhagen:20261112T134600
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-23-fredag-2026-11-13@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261113T120000
+DTEND;TZID=Europe/Copenhagen:20261113T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-23-lørdag-2026-11-14@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261114T120000
+DTEND;TZID=Europe/Copenhagen:20261114T135600
+SUMMARY:Long
+DESCRIPTION:20 km langtur @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-23-søndag-2026-11-15@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261115T120000
+DTEND;TZID=Europe/Copenhagen:20261115T123600
+SUMMARY:Recovery
+DESCRIPTION:6 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-23-søndag-2026-11-15@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261115T125100
+DTEND;TZID=Europe/Copenhagen:20261115T132100
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-24-mandag-2026-11-16@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261116T120000
+DTEND;TZID=Europe/Copenhagen:20261116T130900
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n3x2 km @ 3:50 til 3:5
+ 8/km.\nPause: 600 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.\
+ nTotal 11\,5 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-24-tirsdag-2026-11-17@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261117T120000
+DTEND;TZID=Europe/Copenhagen:20261117T125800
+SUMMARY:Rolig
+DESCRIPTION:10 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-24-tirsdag-2026-11-17@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261117T131300
+DTEND;TZID=Europe/Copenhagen:20261117T140300
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-24-onsdag-2026-11-18@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261118T120000
+DTEND;TZID=Europe/Copenhagen:20261118T130800
+SUMMARY:Tempo
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n8 km @ 3:58 til 4:05/
+ km.\n2 km nedjog @ 5:45 til 6:15/km.\nTotal 12 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-24-torsdag-2026-11-19@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261119T120000
+DTEND;TZID=Europe/Copenhagen:20261119T131000
+SUMMARY:Rolig
+DESCRIPTION:12 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-24-torsdag-2026-11-19@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261119T132500
+DTEND;TZID=Europe/Copenhagen:20261119T141000
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-24-fredag-2026-11-20@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261120T120000
+DTEND;TZID=Europe/Copenhagen:20261120T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-24-lørdag-2026-11-21@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261121T120000
+DTEND;TZID=Europe/Copenhagen:20261121T143100
+SUMMARY:Long
+DESCRIPTION:26 km langtur @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-24-søndag-2026-11-22@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261122T120000
+DTEND;TZID=Europe/Copenhagen:20261122T130000
+SUMMARY:Recovery
+DESCRIPTION:10 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-24-søndag-2026-11-22@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261122T131500
+DTEND;TZID=Europe/Copenhagen:20261122T134500
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-25-mandag-2026-11-23@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261123T120000
+DTEND;TZID=Europe/Copenhagen:20261123T130600
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n8x600 m @ 3:38 til 3:
+ 45/km.\nPause: 300 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 11 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-25-tirsdag-2026-11-24@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261124T120000
+DTEND;TZID=Europe/Copenhagen:20261124T125800
+SUMMARY:Rolig
+DESCRIPTION:10 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-25-tirsdag-2026-11-24@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261124T131300
+DTEND;TZID=Europe/Copenhagen:20261124T140300
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-25-onsdag-2026-11-25@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261125T120000
+DTEND;TZID=Europe/Copenhagen:20261125T131800
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n3x3 km @ 3:52 til 4:0
+ 0/km.\nPause: 0\,8 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 13 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-25-torsdag-2026-11-26@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261126T120000
+DTEND;TZID=Europe/Copenhagen:20261126T131000
+SUMMARY:Rolig
+DESCRIPTION:12 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-25-torsdag-2026-11-26@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261126T132500
+DTEND;TZID=Europe/Copenhagen:20261126T141000
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-25-fredag-2026-11-27@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261127T120000
+DTEND;TZID=Europe/Copenhagen:20261127T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-25-lørdag-2026-11-28@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261128T120000
+DTEND;TZID=Europe/Copenhagen:20261128T140800
+SUMMARY:Long
+DESCRIPTION:22 km langtur @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-25-søndag-2026-11-29@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261129T120000
+DTEND;TZID=Europe/Copenhagen:20261129T130000
+SUMMARY:Recovery
+DESCRIPTION:10 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-25-søndag-2026-11-29@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261129T131500
+DTEND;TZID=Europe/Copenhagen:20261129T134500
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-26-mandag-2026-11-30@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261130T120000
+DTEND;TZID=Europe/Copenhagen:20261130T124800
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6x400 m @ 3:35 til 3:
+ 42/km.\nPause: 200 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 8 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-26-tirsdag-2026-12-01@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261201T120000
+DTEND;TZID=Europe/Copenhagen:20261201T124600
+SUMMARY:Rolig
+DESCRIPTION:8 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-26-tirsdag-2026-12-01@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261201T130100
+DTEND;TZID=Europe/Copenhagen:20261201T134100
+SUMMARY:Styrke
+DESCRIPTION:Let styrke A 50 procent belastning.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-26-onsdag-2026-12-02@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261202T120000
+DTEND;TZID=Europe/Copenhagen:20261202T124600
+SUMMARY:Tempo
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n4 km @ 4:00 til 4:08/
+ km.\n2 km nedjog @ 5:45 til 6:15/km.\nTotal 8 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-26-torsdag-2026-12-03@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261203T120000
+DTEND;TZID=Europe/Copenhagen:20261203T124100
+SUMMARY:Rolig
+DESCRIPTION:7 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-26-torsdag-2026-12-03@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261203T125600
+DTEND;TZID=Europe/Copenhagen:20261203T131600
+SUMMARY:Mobilitet
+DESCRIPTION:Let mobilitet og aktivering.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-26-fredag-2026-12-04@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261204T120000
+DTEND;TZID=Europe/Copenhagen:20261204T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-26-lørdag-2026-12-05@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261205T120000
+DTEND;TZID=Europe/Copenhagen:20261205T125600
+SUMMARY:Race
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n10 km race.\nMålpace
+  3:47 til 3:48/km.\n2 km nedjog @ 5:45 til 6:15/km.\nTotal 14 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-26-søndag-2026-12-06@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261206T120000
+DTEND;TZID=Europe/Copenhagen:20261206T124900
+SUMMARY:Recovery
+DESCRIPTION:8 km recovery @ 5:45 til 6:15/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-26-søndag-2026-12-06@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261206T130400
+DTEND;TZID=Europe/Copenhagen:20261206T133400
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-27-mandag-2026-12-07@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261207T120000
+DTEND;TZID=Europe/Copenhagen:20261207T124200
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n8x200 m @ 3:35 til 3:
+ 45/km.\nPause: 200 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 7 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-27-tirsdag-2026-12-08@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261208T120000
+DTEND;TZID=Europe/Copenhagen:20261208T124600
+SUMMARY:Rolig
+DESCRIPTION:8 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-27-tirsdag-2026-12-08@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261208T130100
+DTEND;TZID=Europe/Copenhagen:20261208T135100
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-27-onsdag-2026-12-09@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261209T120000
+DTEND;TZID=Europe/Copenhagen:20261209T124600
+SUMMARY:Rolig
+DESCRIPTION:8 km roligt @ 5:30 til 6:00/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-27-torsdag-2026-12-10@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261210T120000
+DTEND;TZID=Europe/Copenhagen:20261210T125200
+SUMMARY:Rolig
+DESCRIPTION:9 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-27-torsdag-2026-12-10@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261210T130700
+DTEND;TZID=Europe/Copenhagen:20261210T135200
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-27-fredag-2026-12-11@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261211T120000
+DTEND;TZID=Europe/Copenhagen:20261211T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-27-lørdag-2026-12-12@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261212T120000
+DTEND;TZID=Europe/Copenhagen:20261212T134400
+SUMMARY:Long
+DESCRIPTION:18 km langtur @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-27-søndag-2026-12-13@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261213T120000
+DTEND;TZID=Europe/Copenhagen:20261213T124800
+SUMMARY:Recovery
+DESCRIPTION:8 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-27-søndag-2026-12-13@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261213T130300
+DTEND;TZID=Europe/Copenhagen:20261213T133300
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-28-mandag-2026-12-14@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261214T120000
+DTEND;TZID=Europe/Copenhagen:20261214T125700
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n5x800 m @ 3:38 til 3:
+ 45/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 9\,5 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-28-tirsdag-2026-12-15@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261215T120000
+DTEND;TZID=Europe/Copenhagen:20261215T124600
+SUMMARY:Rolig
+DESCRIPTION:8 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-28-tirsdag-2026-12-15@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261215T130100
+DTEND;TZID=Europe/Copenhagen:20261215T134100
+SUMMARY:Styrke
+DESCRIPTION:Let styrke A 50 procent belastning.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-28-onsdag-2026-12-16@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261216T120000
+DTEND;TZID=Europe/Copenhagen:20261216T125700
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n5x1 km @ 3:55 til 4:0
+ 5/km.\nPause: 0\,3 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 9\,5 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-28-torsdag-2026-12-17@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261217T120000
+DTEND;TZID=Europe/Copenhagen:20261217T124100
+SUMMARY:Rolig
+DESCRIPTION:7 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-28-torsdag-2026-12-17@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261217T125600
+DTEND;TZID=Europe/Copenhagen:20261217T131600
+SUMMARY:Mobilitet
+DESCRIPTION:Let mobilitet og aktivering.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-28-fredag-2026-12-18@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261218T120000
+DTEND;TZID=Europe/Copenhagen:20261218T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-28-lørdag-2026-12-19@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261219T120000
+DTEND;TZID=Europe/Copenhagen:20261219T123600
+SUMMARY:Race
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n5 km race.\nMålpace 
+ 3:35 til 3:36/km.\n2 km nedjog @ 5:45 til 6:15/km.\nTotal 9 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-28-søndag-2026-12-20@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261220T120000
+DTEND;TZID=Europe/Copenhagen:20261220T124900
+SUMMARY:Recovery
+DESCRIPTION:8 km recovery @ 5:45 til 6:15/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-28-søndag-2026-12-20@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261220T130400
+DTEND;TZID=Europe/Copenhagen:20261220T133400
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-29-mandag-2026-12-21@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261221T120000
+DTEND;TZID=Europe/Copenhagen:20261221T124800
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6x400 m @ 3:45 til 3:
+ 55/km.\nPause: 200 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 8 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-29-tirsdag-2026-12-22@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261222T120000
+DTEND;TZID=Europe/Copenhagen:20261222T124100
+SUMMARY:Rolig
+DESCRIPTION:7 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-29-tirsdag-2026-12-22@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261222T125600
+DTEND;TZID=Europe/Copenhagen:20261222T134600
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-29-onsdag-2026-12-23@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261223T120000
+DTEND;TZID=Europe/Copenhagen:20261223T130600
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n3x2 km @ 4:00 til 4:0
+ 8/km.\nPause: 0\,5 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 11 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-29-torsdag-2026-12-24@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261224T120000
+DTEND;TZID=Europe/Copenhagen:20261224T125200
+SUMMARY:Rolig
+DESCRIPTION:9 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-29-torsdag-2026-12-24@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261224T130700
+DTEND;TZID=Europe/Copenhagen:20261224T135200
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-29-fredag-2026-12-25@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261225T120000
+DTEND;TZID=Europe/Copenhagen:20261225T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-29-lørdag-2026-12-26@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261226T120000
+DTEND;TZID=Europe/Copenhagen:20261226T134400
+SUMMARY:Long
+DESCRIPTION:18 km langtur @ 5:25 til 6:00/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-29-søndag-2026-12-27@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261227T120000
+DTEND;TZID=Europe/Copenhagen:20261227T124200
+SUMMARY:Recovery
+DESCRIPTION:7 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-29-søndag-2026-12-27@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20261227T125700
+DTEND;TZID=Europe/Copenhagen:20261227T132700
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-30-mandag-2027-12-28@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20271228T120000
+DTEND;TZID=Europe/Copenhagen:20271228T124800
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6x400 m @ 3:45 til 3:
+ 55/km.\nPause: 200 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 8 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-30-tirsdag-2027-12-29@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20271229T120000
+DTEND;TZID=Europe/Copenhagen:20271229T124100
+SUMMARY:Rolig
+DESCRIPTION:7 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-30-tirsdag-2027-12-29@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20271229T125600
+DTEND;TZID=Europe/Copenhagen:20271229T134600
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-30-onsdag-2027-12-30@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20271230T120000
+DTEND;TZID=Europe/Copenhagen:20271230T125100
+SUMMARY:Tempo
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n5 km @ 4:05 til 4:15/
+ km.\n2 km nedjog @ 5:45 til 6:15/km.\nTotal 9 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-30-torsdag-2027-12-31@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20271231T120000
+DTEND;TZID=Europe/Copenhagen:20271231T124600
+SUMMARY:Rolig
+DESCRIPTION:8 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-30-torsdag-2027-12-31@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20271231T130100
+DTEND;TZID=Europe/Copenhagen:20271231T134600
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-30-fredag-2028-01-01@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20280101T120000
+DTEND;TZID=Europe/Copenhagen:20280101T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-30-lørdag-2028-01-02@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20280102T120000
+DTEND;TZID=Europe/Copenhagen:20280102T133300
+SUMMARY:Long
+DESCRIPTION:16 km langtur @ 5:25 til 6:00/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-30-søndag-2028-01-03@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20280103T120000
+DTEND;TZID=Europe/Copenhagen:20280103T124200
+SUMMARY:Recovery
+DESCRIPTION:7 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-30-søndag-2028-01-03@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20280103T125700
+DTEND;TZID=Europe/Copenhagen:20280103T132700
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-31-mandag-2027-01-04@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270104T120000
+DTEND;TZID=Europe/Copenhagen:20270104T130600
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n5x1 km @ 3:45 til 3:5
+ 2/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.\
+ nTotal 11 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-31-tirsdag-2027-01-05@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270105T120000
+DTEND;TZID=Europe/Copenhagen:20270105T124600
+SUMMARY:Rolig
+DESCRIPTION:8 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-31-tirsdag-2027-01-05@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270105T130100
+DTEND;TZID=Europe/Copenhagen:20270105T135100
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-31-onsdag-2027-01-06@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270106T120000
+DTEND;TZID=Europe/Copenhagen:20270106T131800
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n3x3 km @ 3:58 til 4:0
+ 5/km.\nPause: 0\,8 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 13 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-31-torsdag-2027-01-07@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270107T120000
+DTEND;TZID=Europe/Copenhagen:20270107T125200
+SUMMARY:Rolig
+DESCRIPTION:9 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-31-torsdag-2027-01-07@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270107T130700
+DTEND;TZID=Europe/Copenhagen:20270107T135200
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-31-fredag-2027-01-08@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270108T120000
+DTEND;TZID=Europe/Copenhagen:20270108T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-31-lørdag-2027-01-09@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270109T120000
+DTEND;TZID=Europe/Copenhagen:20270109T141900
+SUMMARY:Long
+DESCRIPTION:24 km langtur @ 5:10 til 5:45/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-31-søndag-2027-01-10@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270110T120000
+DTEND;TZID=Europe/Copenhagen:20270110T124200
+SUMMARY:Recovery
+DESCRIPTION:7 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-31-søndag-2027-01-10@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270110T125700
+DTEND;TZID=Europe/Copenhagen:20270110T132700
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-32-mandag-2027-01-11@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270111T120000
+DTEND;TZID=Europe/Copenhagen:20270111T130300
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n4x1\,2 km @ 3:48 til 
+ 3:55/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/k
+ m.\nTotal 10\,5 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-32-tirsdag-2027-01-12@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270112T120000
+DTEND;TZID=Europe/Copenhagen:20270112T124600
+SUMMARY:Rolig
+DESCRIPTION:8 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-32-tirsdag-2027-01-12@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270112T130100
+DTEND;TZID=Europe/Copenhagen:20270112T135100
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-32-onsdag-2027-01-13@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270113T120000
+DTEND;TZID=Europe/Copenhagen:20270113T131800
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n2x4 km @ 3:58 til 4:0
+ 5/km.\nPause: 1 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.\n
+ Total 13 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-32-torsdag-2027-01-14@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270114T120000
+DTEND;TZID=Europe/Copenhagen:20270114T125800
+SUMMARY:Rolig
+DESCRIPTION:10 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-32-torsdag-2027-01-14@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270114T131300
+DTEND;TZID=Europe/Copenhagen:20270114T135800
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-32-fredag-2027-01-15@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270115T120000
+DTEND;TZID=Europe/Copenhagen:20270115T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-32-lørdag-2027-01-16@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270116T120000
+DTEND;TZID=Europe/Copenhagen:20270116T143100
+SUMMARY:Long
+DESCRIPTION:26 km langtur @ 5:10 til 5:45/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-32-søndag-2027-01-17@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270117T120000
+DTEND;TZID=Europe/Copenhagen:20270117T124800
+SUMMARY:Recovery
+DESCRIPTION:8 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-32-søndag-2027-01-17@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270117T130300
+DTEND;TZID=Europe/Copenhagen:20270117T133300
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-33-mandag-2027-01-18@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270118T120000
+DTEND;TZID=Europe/Copenhagen:20270118T130600
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6x800 m @ 3:42 til 3:
+ 50/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 11 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-33-tirsdag-2027-01-19@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270119T120000
+DTEND;TZID=Europe/Copenhagen:20270119T125200
+SUMMARY:Rolig
+DESCRIPTION:9 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-33-tirsdag-2027-01-19@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270119T130700
+DTEND;TZID=Europe/Copenhagen:20270119T135700
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-33-onsdag-2027-01-20@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270120T120000
+DTEND;TZID=Europe/Copenhagen:20270120T134200
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n4x3 km @ 3:58 til 4:0
+ 5/km.\nPause: 0\,8 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 17 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-33-torsdag-2027-01-21@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270121T120000
+DTEND;TZID=Europe/Copenhagen:20270121T125800
+SUMMARY:Rolig
+DESCRIPTION:10 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-33-torsdag-2027-01-21@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270121T131300
+DTEND;TZID=Europe/Copenhagen:20270121T135800
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-33-fredag-2027-01-22@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270122T120000
+DTEND;TZID=Europe/Copenhagen:20270122T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-33-lørdag-2027-01-23@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270123T120000
+DTEND;TZID=Europe/Copenhagen:20270123T141900
+SUMMARY:Long
+DESCRIPTION:24 km langtur @ 5:10 til 5:45/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-33-søndag-2027-01-24@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270124T120000
+DTEND;TZID=Europe/Copenhagen:20270124T125400
+SUMMARY:Recovery
+DESCRIPTION:9 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-33-søndag-2027-01-24@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270124T130900
+DTEND;TZID=Europe/Copenhagen:20270124T133900
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-34-mandag-2027-01-25@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270125T120000
+DTEND;TZID=Europe/Copenhagen:20270125T130600
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n5x1 km @ 3:42 til 3:5
+ 0/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.\
+ nTotal 11 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-34-tirsdag-2027-01-26@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270126T120000
+DTEND;TZID=Europe/Copenhagen:20270126T125800
+SUMMARY:Rolig
+DESCRIPTION:10 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-34-tirsdag-2027-01-26@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270126T131300
+DTEND;TZID=Europe/Copenhagen:20270126T140300
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-34-onsdag-2027-01-27@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270127T120000
+DTEND;TZID=Europe/Copenhagen:20270127T132000
+SUMMARY:Tempo
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n10 km @ 4:00 til 4:08
+ /km.\n2 km nedjog @ 5:45 til 6:15/km.\nTotal 14 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-34-torsdag-2027-01-28@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270128T120000
+DTEND;TZID=Europe/Copenhagen:20270128T130400
+SUMMARY:Rolig
+DESCRIPTION:11 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-34-torsdag-2027-01-28@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270128T131900
+DTEND;TZID=Europe/Copenhagen:20270128T140400
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-34-fredag-2027-01-29@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270129T120000
+DTEND;TZID=Europe/Copenhagen:20270129T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-34-lørdag-2027-01-30@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270130T120000
+DTEND;TZID=Europe/Copenhagen:20270130T144200
+SUMMARY:Long
+DESCRIPTION:28 km langtur @ 5:10 til 5:45/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-34-søndag-2027-01-31@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270131T120000
+DTEND;TZID=Europe/Copenhagen:20270131T130000
+SUMMARY:Recovery
+DESCRIPTION:10 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-34-søndag-2027-01-31@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270131T131500
+DTEND;TZID=Europe/Copenhagen:20270131T134500
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-35-mandag-2027-02-01@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270201T120000
+DTEND;TZID=Europe/Copenhagen:20270201T130300
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n4x1\,2 km @ 3:45 til 
+ 3:52/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/k
+ m.\nTotal 10\,5 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-35-tirsdag-2027-02-02@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270202T120000
+DTEND;TZID=Europe/Copenhagen:20270202T124600
+SUMMARY:Rolig
+DESCRIPTION:8 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-35-tirsdag-2027-02-02@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270202T130100
+DTEND;TZID=Europe/Copenhagen:20270202T135100
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-35-onsdag-2027-02-03@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270203T120000
+DTEND;TZID=Europe/Copenhagen:20270203T131800
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n3x3 km @ 3:55 til 4:0
+ 3/km.\nPause: 0\,8 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 13 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-35-torsdag-2027-02-04@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270204T120000
+DTEND;TZID=Europe/Copenhagen:20270204T124600
+SUMMARY:Rolig
+DESCRIPTION:8 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-35-torsdag-2027-02-04@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270204T130100
+DTEND;TZID=Europe/Copenhagen:20270204T134600
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-35-fredag-2027-02-05@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270205T120000
+DTEND;TZID=Europe/Copenhagen:20270205T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-35-lørdag-2027-02-06@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270206T120000
+DTEND;TZID=Europe/Copenhagen:20270206T140800
+SUMMARY:Long
+DESCRIPTION:22 km langtur @ 5:10 til 5:45/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-35-søndag-2027-02-07@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270207T120000
+DTEND;TZID=Europe/Copenhagen:20270207T124800
+SUMMARY:Recovery
+DESCRIPTION:8 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-35-søndag-2027-02-07@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270207T130300
+DTEND;TZID=Europe/Copenhagen:20270207T133300
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-36-mandag-2027-02-08@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270208T120000
+DTEND;TZID=Europe/Copenhagen:20270208T124800
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6x400 m @ 3:38 til 3:
+ 45/km.\nPause: 200 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 8 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-36-tirsdag-2027-02-09@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270209T120000
+DTEND;TZID=Europe/Copenhagen:20270209T131000
+SUMMARY:Rolig
+DESCRIPTION:12 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-36-tirsdag-2027-02-09@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270209T132500
+DTEND;TZID=Europe/Copenhagen:20270209T141500
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-36-onsdag-2027-02-10@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270210T120000
+DTEND;TZID=Europe/Copenhagen:20270210T125700
+SUMMARY:Tempo
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6 km @ 4:02 til 4:10/
+ km.\n2 km nedjog @ 5:45 til 6:15/km.\nTotal 10 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-36-torsdag-2027-02-11@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270211T120000
+DTEND;TZID=Europe/Copenhagen:20270211T132100
+SUMMARY:Rolig
+DESCRIPTION:14 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-36-torsdag-2027-02-11@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270211T133600
+DTEND;TZID=Europe/Copenhagen:20270211T142100
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-36-fredag-2027-02-12@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270212T120000
+DTEND;TZID=Europe/Copenhagen:20270212T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-36-lørdag-2027-02-13@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270213T120000
+DTEND;TZID=Europe/Copenhagen:20270213T145400
+SUMMARY:Long
+DESCRIPTION:30 km langtur @ 5:10 til 5:45/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-36-søndag-2027-02-14@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270214T120000
+DTEND;TZID=Europe/Copenhagen:20270214T131200
+SUMMARY:Recovery
+DESCRIPTION:12 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-36-søndag-2027-02-14@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270214T132700
+DTEND;TZID=Europe/Copenhagen:20270214T135700
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-37-mandag-2027-02-15@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270215T120000
+DTEND;TZID=Europe/Copenhagen:20270215T130600
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6x800 m @ 3:45 til 3:
+ 55/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 11 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-37-tirsdag-2027-02-16@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270216T120000
+DTEND;TZID=Europe/Copenhagen:20270216T125800
+SUMMARY:Rolig
+DESCRIPTION:10 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-37-tirsdag-2027-02-16@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270216T131300
+DTEND;TZID=Europe/Copenhagen:20270216T140300
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-37-onsdag-2027-02-17@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270217T120000
+DTEND;TZID=Europe/Copenhagen:20270217T130800
+SUMMARY:Tempo
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n8 km @ 4:15/km.\n2 km
+  nedjog @ 5:45 til 6:15/km.\nTotal 12 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-37-torsdag-2027-02-18@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270218T120000
+DTEND;TZID=Europe/Copenhagen:20270218T130400
+SUMMARY:Rolig
+DESCRIPTION:11 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-37-torsdag-2027-02-18@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270218T131900
+DTEND;TZID=Europe/Copenhagen:20270218T140400
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-37-fredag-2027-02-19@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270219T120000
+DTEND;TZID=Europe/Copenhagen:20270219T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-37-lørdag-2027-02-20@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270220T120000
+DTEND;TZID=Europe/Copenhagen:20270220T144200
+SUMMARY:Long
+DESCRIPTION:28 km langtur.\n10 km @ 4:15/km midt i turen.\nResten @ 5:
+ 15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-37-søndag-2027-02-21@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270221T120000
+DTEND;TZID=Europe/Copenhagen:20270221T130000
+SUMMARY:Recovery
+DESCRIPTION:10 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-37-søndag-2027-02-21@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270221T131500
+DTEND;TZID=Europe/Copenhagen:20270221T134500
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-38-mandag-2027-02-22@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270222T120000
+DTEND;TZID=Europe/Copenhagen:20270222T124800
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6x400 m @ 3:38 til 3:
+ 45/km.\nPause: 200 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 8 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-38-tirsdag-2027-02-23@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270223T120000
+DTEND;TZID=Europe/Copenhagen:20270223T124600
+SUMMARY:Rolig
+DESCRIPTION:8 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-38-tirsdag-2027-02-23@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270223T130100
+DTEND;TZID=Europe/Copenhagen:20270223T134100
+SUMMARY:Styrke
+DESCRIPTION:Let styrke A 50 procent belastning.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-38-onsdag-2027-02-24@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270224T120000
+DTEND;TZID=Europe/Copenhagen:20270224T125100
+SUMMARY:Tempo
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n5 km @ 4:10 til 4:15/
+ km.\n2 km nedjog @ 5:45 til 6:15/km.\nTotal 9 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-38-torsdag-2027-02-25@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270225T120000
+DTEND;TZID=Europe/Copenhagen:20270225T123500
+SUMMARY:Rolig
+DESCRIPTION:6 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-38-torsdag-2027-02-25@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270225T125000
+DTEND;TZID=Europe/Copenhagen:20270225T131000
+SUMMARY:Mobilitet
+DESCRIPTION:Let mobilitet og aktivering.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-38-fredag-2027-02-26@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270226T120000
+DTEND;TZID=Europe/Copenhagen:20270226T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-38-lørdag-2027-02-27@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270227T120000
+DTEND;TZID=Europe/Copenhagen:20270227T123500
+SUMMARY:Rolig
+DESCRIPTION:6 km roligt @ 5:40 til 6:10/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-38-søndag-2027-02-28@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270228T120000
+DTEND;TZID=Europe/Copenhagen:20270228T134400
+SUMMARY:Race
+DESCRIPTION:3 km opvarmning @ 5:35 til 6:05/km.\nHalvmarathon race.\nM
+ ålpace 4:00 til 4:05/km.\n1\,9 km nedjog @ 5:45 til 6:15/km.\nTotal 2
+ 6 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-39-mandag-2027-03-01@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270301T120000
+DTEND;TZID=Europe/Copenhagen:20270301T125400
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n8x400 m @ 3:45 til 3:
+ 55/km.\nPause: 200 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 9 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-39-tirsdag-2027-03-02@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270302T120000
+DTEND;TZID=Europe/Copenhagen:20270302T131500
+SUMMARY:Rolig
+DESCRIPTION:13 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-39-tirsdag-2027-03-02@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270302T133000
+DTEND;TZID=Europe/Copenhagen:20270302T142000
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-39-onsdag-2027-03-03@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270303T120000
+DTEND;TZID=Europe/Copenhagen:20270303T125800
+SUMMARY:Rolig
+DESCRIPTION:10 km roligt @ 5:25 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-39-torsdag-2027-03-04@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270304T120000
+DTEND;TZID=Europe/Copenhagen:20270304T133300
+SUMMARY:Rolig
+DESCRIPTION:16 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-39-torsdag-2027-03-04@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270304T134800
+DTEND;TZID=Europe/Copenhagen:20270304T143300
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-39-fredag-2027-03-05@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270305T120000
+DTEND;TZID=Europe/Copenhagen:20270305T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-39-lørdag-2027-03-06@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270306T120000
+DTEND;TZID=Europe/Copenhagen:20270306T141900
+SUMMARY:Long
+DESCRIPTION:24 km langtur @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-39-søndag-2027-03-07@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270307T120000
+DTEND;TZID=Europe/Copenhagen:20270307T131200
+SUMMARY:Recovery
+DESCRIPTION:12 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-39-søndag-2027-03-07@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270307T132700
+DTEND;TZID=Europe/Copenhagen:20270307T135700
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-40-mandag-2027-03-08@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270308T120000
+DTEND;TZID=Europe/Copenhagen:20270308T130600
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n5x1 km @ 3:50 til 3:5
+ 8/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.\
+ nTotal 11 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-40-tirsdag-2027-03-09@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270309T120000
+DTEND;TZID=Europe/Copenhagen:20270309T130400
+SUMMARY:Rolig
+DESCRIPTION:11 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-40-tirsdag-2027-03-09@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270309T131900
+DTEND;TZID=Europe/Copenhagen:20270309T140900
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-40-onsdag-2027-03-10@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270310T120000
+DTEND;TZID=Europe/Copenhagen:20270310T131800
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n3x3 km @ 3:58 til 4:0
+ 5/km.\nPause: 0\,8 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 13 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-40-torsdag-2027-03-11@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270311T120000
+DTEND;TZID=Europe/Copenhagen:20270311T131500
+SUMMARY:Rolig
+DESCRIPTION:13 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-40-torsdag-2027-03-11@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270311T133000
+DTEND;TZID=Europe/Copenhagen:20270311T141500
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-40-fredag-2027-03-12@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270312T120000
+DTEND;TZID=Europe/Copenhagen:20270312T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-40-lørdag-2027-03-13@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270313T120000
+DTEND;TZID=Europe/Copenhagen:20270313T150000
+SUMMARY:Long
+DESCRIPTION:30 km langtur.\n3x5 km @ 4:15/km.\nPause: 1 km roligt @ 5:
+ 30 til 5:50/km.\nResten @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-40-søndag-2027-03-14@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270314T120000
+DTEND;TZID=Europe/Copenhagen:20270314T130000
+SUMMARY:Recovery
+DESCRIPTION:10 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-40-søndag-2027-03-14@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270314T131500
+DTEND;TZID=Europe/Copenhagen:20270314T134500
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-41-mandag-2027-03-15@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270315T120000
+DTEND;TZID=Europe/Copenhagen:20270315T130300
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n4x1\,2 km @ 3:50 til 
+ 3:58/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/k
+ m.\nTotal 10\,5 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-41-tirsdag-2027-03-16@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270316T120000
+DTEND;TZID=Europe/Copenhagen:20270316T122500
+SUMMARY:Rolig
+DESCRIPTION:2 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-41-tirsdag-2027-03-16@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270316T124000
+DTEND;TZID=Europe/Copenhagen:20270316T133000
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-41-onsdag-2027-03-17@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270317T120000
+DTEND;TZID=Europe/Copenhagen:20270317T133100
+SUMMARY:Tempo
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n12 km @ 4:15/km.\n2 k
+ m nedjog @ 5:45 til 6:15/km.\nTotal 16 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-41-torsdag-2027-03-18@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270318T120000
+DTEND;TZID=Europe/Copenhagen:20270318T123500
+SUMMARY:Rolig
+DESCRIPTION:6 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-41-torsdag-2027-03-18@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270318T125000
+DTEND;TZID=Europe/Copenhagen:20270318T133500
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-41-fredag-2027-03-19@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270319T120000
+DTEND;TZID=Europe/Copenhagen:20270319T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-41-lørdag-2027-03-20@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270320T120000
+DTEND;TZID=Europe/Copenhagen:20270320T150600
+SUMMARY:Long
+DESCRIPTION:32 km langtur.\n16 km @ 4:15/km efter 8 km opvarmning.\nRe
+ sten @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-41-søndag-2027-03-21@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270321T120000
+DTEND;TZID=Europe/Copenhagen:20270321T123000
+SUMMARY:Recovery
+DESCRIPTION:5 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-41-søndag-2027-03-21@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270321T124500
+DTEND;TZID=Europe/Copenhagen:20270321T131500
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-42-mandag-2027-03-22@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270322T120000
+DTEND;TZID=Europe/Copenhagen:20270322T130600
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6x800 m @ 3:48 til 3:
+ 55/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 11 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-42-tirsdag-2027-03-23@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270323T120000
+DTEND;TZID=Europe/Copenhagen:20270323T132100
+SUMMARY:Rolig
+DESCRIPTION:14 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-42-tirsdag-2027-03-23@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270323T133600
+DTEND;TZID=Europe/Copenhagen:20270323T142600
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-42-onsdag-2027-03-24@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270324T120000
+DTEND;TZID=Europe/Copenhagen:20270324T131200
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n4x2 km @ 3:55 til 4:0
+ 3/km.\nPause: 0\,5 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 12 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-42-torsdag-2027-03-25@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270325T120000
+DTEND;TZID=Europe/Copenhagen:20270325T133900
+SUMMARY:Rolig
+DESCRIPTION:17 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-42-torsdag-2027-03-25@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270325T135400
+DTEND;TZID=Europe/Copenhagen:20270325T143900
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-42-fredag-2027-03-26@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270326T120000
+DTEND;TZID=Europe/Copenhagen:20270326T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-42-lørdag-2027-03-27@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270327T120000
+DTEND;TZID=Europe/Copenhagen:20270327T141900
+SUMMARY:Long
+DESCRIPTION:24 km langtur @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-42-søndag-2027-03-28@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270328T120000
+DTEND;TZID=Europe/Copenhagen:20270328T131200
+SUMMARY:Recovery
+DESCRIPTION:12 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-42-søndag-2027-03-28@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270328T132700
+DTEND;TZID=Europe/Copenhagen:20270328T135700
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-43-mandag-2027-03-29@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270329T120000
+DTEND;TZID=Europe/Copenhagen:20270329T130600
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n5x1 km @ 3:48 til 3:5
+ 5/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.\
+ nTotal 11 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-43-tirsdag-2027-03-30@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270330T120000
+DTEND;TZID=Europe/Copenhagen:20270330T125800
+SUMMARY:Rolig
+DESCRIPTION:10 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-43-tirsdag-2027-03-30@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270330T131300
+DTEND;TZID=Europe/Copenhagen:20270330T140300
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-43-onsdag-2027-03-31@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270331T120000
+DTEND;TZID=Europe/Copenhagen:20270331T134300
+SUMMARY:Tempo
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n14 km @ 4:15/km.\n2 k
+ m nedjog @ 5:45 til 6:15/km.\nTotal 18 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-43-torsdag-2027-04-01@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270401T120000
+DTEND;TZID=Europe/Copenhagen:20270401T130400
+SUMMARY:Rolig
+DESCRIPTION:11 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-43-torsdag-2027-04-01@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270401T131900
+DTEND;TZID=Europe/Copenhagen:20270401T140400
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-43-fredag-2027-04-02@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270402T120000
+DTEND;TZID=Europe/Copenhagen:20270402T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-43-lørdag-2027-04-03@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270403T120000
+DTEND;TZID=Europe/Copenhagen:20270403T152400
+SUMMARY:Long
+DESCRIPTION:34 km langtur.\n2x8 km @ 4:15/km.\nPause: 2 km roligt @ 5:
+ 30 til 5:50/km.\nResten @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-43-søndag-2027-04-04@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270404T120000
+DTEND;TZID=Europe/Copenhagen:20270404T130000
+SUMMARY:Recovery
+DESCRIPTION:10 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-43-søndag-2027-04-04@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270404T131500
+DTEND;TZID=Europe/Copenhagen:20270404T134500
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-44-mandag-2027-04-05@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270405T120000
+DTEND;TZID=Europe/Copenhagen:20270405T130300
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n8x600 m @ 3:42 til 3:
+ 50/km.\nPause: 300 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 10\,5 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-44-tirsdag-2027-04-06@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270406T120000
+DTEND;TZID=Europe/Copenhagen:20270406T124100
+SUMMARY:Rolig
+DESCRIPTION:7 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-44-tirsdag-2027-04-06@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270406T125600
+DTEND;TZID=Europe/Copenhagen:20270406T134600
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-44-onsdag-2027-04-07@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270407T120000
+DTEND;TZID=Europe/Copenhagen:20270407T131800
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n3x3 km @ 3:55 til 4:0
+ 3/km.\nPause: 0\,8 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 13 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-44-torsdag-2027-04-08@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270408T120000
+DTEND;TZID=Europe/Copenhagen:20270408T124100
+SUMMARY:Rolig
+DESCRIPTION:7 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-44-torsdag-2027-04-08@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270408T125600
+DTEND;TZID=Europe/Copenhagen:20270408T134100
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-44-fredag-2027-04-09@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270409T120000
+DTEND;TZID=Europe/Copenhagen:20270409T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-44-lørdag-2027-04-10@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270410T120000
+DTEND;TZID=Europe/Copenhagen:20270410T145400
+SUMMARY:Long
+DESCRIPTION:30 km langtur.\n20 km @ 4:15 til 4:20/km efter 5 km opvarm
+ ning.\nResten @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-44-søndag-2027-04-11@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270411T120000
+DTEND;TZID=Europe/Copenhagen:20270411T124800
+SUMMARY:Recovery
+DESCRIPTION:8 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-44-søndag-2027-04-11@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270411T130300
+DTEND;TZID=Europe/Copenhagen:20270411T133300
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-45-mandag-2027-04-12@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270412T120000
+DTEND;TZID=Europe/Copenhagen:20270412T130300
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n4x1\,2 km @ 3:48 til 
+ 3:55/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/k
+ m.\nTotal 10\,5 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-45-tirsdag-2027-04-13@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270413T120000
+DTEND;TZID=Europe/Copenhagen:20270413T125200
+SUMMARY:Rolig
+DESCRIPTION:9 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-45-tirsdag-2027-04-13@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270413T130700
+DTEND;TZID=Europe/Copenhagen:20270413T135700
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-45-onsdag-2027-04-14@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270414T120000
+DTEND;TZID=Europe/Copenhagen:20270414T135400
+SUMMARY:Tempo
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n16 km @ 4:15/km.\n2 k
+ m nedjog @ 5:45 til 6:15/km.\nTotal 20 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-45-torsdag-2027-04-15@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270415T120000
+DTEND;TZID=Europe/Copenhagen:20270415T125800
+SUMMARY:Rolig
+DESCRIPTION:10 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-45-torsdag-2027-04-15@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270415T131300
+DTEND;TZID=Europe/Copenhagen:20270415T135800
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-45-fredag-2027-04-16@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270416T120000
+DTEND;TZID=Europe/Copenhagen:20270416T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-45-lørdag-2027-04-17@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270417T120000
+DTEND;TZID=Europe/Copenhagen:20270417T152400
+SUMMARY:Long
+DESCRIPTION:34 km langtur.\n3x6 km @ 4:15/km.\nPause: 1 km roligt @ 5:
+ 30 til 5:50/km.\nResten @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-45-søndag-2027-04-18@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270418T120000
+DTEND;TZID=Europe/Copenhagen:20270418T124800
+SUMMARY:Recovery
+DESCRIPTION:8 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-45-søndag-2027-04-18@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270418T130300
+DTEND;TZID=Europe/Copenhagen:20270418T133300
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-46-mandag-2027-04-19@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270419T120000
+DTEND;TZID=Europe/Copenhagen:20270419T130600
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6x800 m @ 3:50 til 3:
+ 58/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 11 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-46-tirsdag-2027-04-20@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270420T120000
+DTEND;TZID=Europe/Copenhagen:20270420T123500
+SUMMARY:Rolig
+DESCRIPTION:6 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-46-tirsdag-2027-04-20@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270420T125000
+DTEND;TZID=Europe/Copenhagen:20270420T134000
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-46-onsdag-2027-04-21@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270421T120000
+DTEND;TZID=Europe/Copenhagen:20270421T131800
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n2x4 km @ 3:58 til 4:0
+ 5/km.\nPause: 1 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.\n
+ Total 13 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-46-torsdag-2027-04-22@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270422T120000
+DTEND;TZID=Europe/Copenhagen:20270422T124100
+SUMMARY:Rolig
+DESCRIPTION:7 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-46-torsdag-2027-04-22@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270422T125600
+DTEND;TZID=Europe/Copenhagen:20270422T134100
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-46-fredag-2027-04-23@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270423T120000
+DTEND;TZID=Europe/Copenhagen:20270423T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-46-lørdag-2027-04-24@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270424T120000
+DTEND;TZID=Europe/Copenhagen:20270424T143100
+SUMMARY:Long
+DESCRIPTION:26 km langtur.\n12 km @ 4:15/km midt i turen.\nResten @ 5:
+ 20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-46-søndag-2027-04-25@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270425T120000
+DTEND;TZID=Europe/Copenhagen:20270425T124200
+SUMMARY:Recovery
+DESCRIPTION:7 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-46-søndag-2027-04-25@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270425T125700
+DTEND;TZID=Europe/Copenhagen:20270425T132700
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-47-mandag-2027-04-26@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270426T120000
+DTEND;TZID=Europe/Copenhagen:20270426T124800
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6x400 m @ 3:45 til 3:
+ 55/km.\nPause: 200 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 8 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-47-tirsdag-2027-04-27@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270427T120000
+DTEND;TZID=Europe/Copenhagen:20270427T122900
+SUMMARY:Rolig
+DESCRIPTION:5 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-47-tirsdag-2027-04-27@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270427T124400
+DTEND;TZID=Europe/Copenhagen:20270427T133400
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-47-onsdag-2027-04-28@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270428T120000
+DTEND;TZID=Europe/Copenhagen:20270428T130800
+SUMMARY:Tempo
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n8 km @ 4:15/km.\n2 km
+  nedjog @ 5:45 til 6:15/km.\nTotal 12 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-47-torsdag-2027-04-29@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270429T120000
+DTEND;TZID=Europe/Copenhagen:20270429T123500
+SUMMARY:Rolig
+DESCRIPTION:6 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-47-torsdag-2027-04-29@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270429T125000
+DTEND;TZID=Europe/Copenhagen:20270429T133500
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-47-fredag-2027-04-30@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270430T120000
+DTEND;TZID=Europe/Copenhagen:20270430T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-47-lørdag-2027-05-01@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270501T120000
+DTEND;TZID=Europe/Copenhagen:20270501T134400
+SUMMARY:Long
+DESCRIPTION:18 km langtur.\n6 km @ 4:15/km midt i turen.\nResten @ 5:2
+ 5 til 6:00/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-47-søndag-2027-05-02@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270502T120000
+DTEND;TZID=Europe/Copenhagen:20270502T123600
+SUMMARY:Recovery
+DESCRIPTION:6 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-47-søndag-2027-05-02@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270502T125100
+DTEND;TZID=Europe/Copenhagen:20270502T132100
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-48-mandag-2027-05-03@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270503T120000
+DTEND;TZID=Europe/Copenhagen:20270503T123000
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n4x400 m @ 3:45 til 3:
+ 55/km.\nPause: 200 m jog mellem reps.\n1\,2 km nedjog @ 5:45 til 6:15/
+ km.\nTotal 5 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-48-tirsdag-2027-05-04@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270504T120000
+DTEND;TZID=Europe/Copenhagen:20270504T123500
+SUMMARY:Rolig
+DESCRIPTION:6 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-48-tirsdag-2027-05-04@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270504T125000
+DTEND;TZID=Europe/Copenhagen:20270504T133000
+SUMMARY:Styrke
+DESCRIPTION:Let styrke A 50 procent belastning.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-48-onsdag-2027-05-05@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270505T120000
+DTEND;TZID=Europe/Copenhagen:20270505T123400
+SUMMARY:Tempo
+DESCRIPTION:1\,5 km opvarmning @ 5:35 til 6:05/km.\n3 km @ 4:15/km.\n1
+ \,5 km nedjog @ 5:45 til 6:15/km.\nTotal 6 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-48-torsdag-2027-05-06@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270506T120000
+DTEND;TZID=Europe/Copenhagen:20270506T122900
+SUMMARY:Rolig
+DESCRIPTION:5 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-48-torsdag-2027-05-06@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270506T124400
+DTEND;TZID=Europe/Copenhagen:20270506T130400
+SUMMARY:Mobilitet
+DESCRIPTION:Let mobilitet og aktivering.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-48-fredag-2027-05-07@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270507T120000
+DTEND;TZID=Europe/Copenhagen:20270507T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-48-lørdag-2027-05-08@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270508T120000
+DTEND;TZID=Europe/Copenhagen:20270508T122500
+SUMMARY:Rolig
+DESCRIPTION:4 km roligt @ 5:45 til 6:15/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-48-søndag-2027-05-09@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270509T120000
+DTEND;TZID=Europe/Copenhagen:20270509T122500
+SUMMARY:Race
+DESCRIPTION:Copenhagen Marathon.\nMålpace 4:15/km.\nFørste 5 km roli
+ gere end målpace.\nEnergi efter raceplan.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-49-torsdag-2027-05-13@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270513T120000
+DTEND;TZID=Europe/Copenhagen:20270513T122500
+SUMMARY:Rolig
+DESCRIPTION:4 km meget roligt @ 6:00 til 6:30/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-49-søndag-2027-05-16@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270516T120000
+DTEND;TZID=Europe/Copenhagen:20270516T122500
+SUMMARY:Recovery
+DESCRIPTION:4 km recovery @ 6:00 til 6:30/km.\nMobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-50-mandag-2027-05-17@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270517T120000
+DTEND;TZID=Europe/Copenhagen:20270517T122900
+SUMMARY:Rolig
+DESCRIPTION:5 km meget roligt @ 5:50 til 6:20/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-50-onsdag-2027-05-19@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270519T120000
+DTEND;TZID=Europe/Copenhagen:20270519T123500
+SUMMARY:Rolig
+DESCRIPTION:6 km roligt @ 5:45 til 6:15/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-50-torsdag-2027-05-20@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270520T120000
+DTEND;TZID=Europe/Copenhagen:20270520T122900
+SUMMARY:Rolig
+DESCRIPTION:5 km roligt @ 5:45 til 6:15/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-50-torsdag-2027-05-20@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270520T124400
+DTEND;TZID=Europe/Copenhagen:20270520T132400
+SUMMARY:Styrke
+DESCRIPTION:Let styrke A 50 procent belastning.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-50-lørdag-2027-05-22@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270522T120000
+DTEND;TZID=Europe/Copenhagen:20270522T124600
+SUMMARY:Rolig
+DESCRIPTION:8 km roligt @ 5:40 til 6:10/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-50-søndag-2027-05-23@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270523T120000
+DTEND;TZID=Europe/Copenhagen:20270523T122500
+SUMMARY:Recovery
+DESCRIPTION:4 km recovery @ 5:50 til 6:20/km.\nMobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-51-mandag-2027-05-24@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270524T120000
+DTEND;TZID=Europe/Copenhagen:20270524T123600
+SUMMARY:Interval
+DESCRIPTION:6 km roligt @ 5:40 til 6:10/km + 4x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-51-tirsdag-2027-05-25@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270525T120000
+DTEND;TZID=Europe/Copenhagen:20270525T123500
+SUMMARY:Rolig
+DESCRIPTION:6 km roligt @ 5:35 til 6:05/km.\nlet.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-51-tirsdag-2027-05-25@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270525T125000
+DTEND;TZID=Europe/Copenhagen:20270525T134000
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-51-onsdag-2027-05-26@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270526T120000
+DTEND;TZID=Europe/Copenhagen:20270526T124600
+SUMMARY:Rolig
+DESCRIPTION:8 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-51-torsdag-2027-05-27@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270527T120000
+DTEND;TZID=Europe/Copenhagen:20270527T123500
+SUMMARY:Rolig
+DESCRIPTION:6 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-51-torsdag-2027-05-27@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270527T125000
+DTEND;TZID=Europe/Copenhagen:20270527T133500
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-51-fredag-2027-05-28@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270528T120000
+DTEND;TZID=Europe/Copenhagen:20270528T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-51-lørdag-2027-05-29@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270529T120000
+DTEND;TZID=Europe/Copenhagen:20270529T131000
+SUMMARY:Long
+DESCRIPTION:12 km langtur @ 5:30 til 6:00/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-51-søndag-2027-05-30@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270530T120000
+DTEND;TZID=Europe/Copenhagen:20270530T123000
+SUMMARY:Recovery
+DESCRIPTION:5 km recovery @ 5:50 til 6:20/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-51-søndag-2027-05-30@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270530T124500
+DTEND;TZID=Europe/Copenhagen:20270530T131500
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-52-mandag-2027-05-31@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270531T120000
+DTEND;TZID=Europe/Copenhagen:20270531T124500
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n8x200 m @ 3:45 til 3:
+ 55/km.\nPause: 200 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 7\,5 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-52-tirsdag-2027-06-01@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270601T120000
+DTEND;TZID=Europe/Copenhagen:20270601T123500
+SUMMARY:Rolig
+DESCRIPTION:6 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-52-tirsdag-2027-06-01@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270601T125000
+DTEND;TZID=Europe/Copenhagen:20270601T134000
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-52-onsdag-2027-06-02@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270602T120000
+DTEND;TZID=Europe/Copenhagen:20270602T125100
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n2x2 km @ 4:10 til 4:2
+ 0/km.\nPause: 0\,5 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 8\,5 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-52-torsdag-2027-06-03@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270603T120000
+DTEND;TZID=Europe/Copenhagen:20270603T124100
+SUMMARY:Rolig
+DESCRIPTION:7 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-52-torsdag-2027-06-03@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270603T125600
+DTEND;TZID=Europe/Copenhagen:20270603T134100
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-52-fredag-2027-06-04@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270604T120000
+DTEND;TZID=Europe/Copenhagen:20270604T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-52-lørdag-2027-06-05@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270605T120000
+DTEND;TZID=Europe/Copenhagen:20270605T132100
+SUMMARY:Long
+DESCRIPTION:14 km langtur @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-52-søndag-2027-06-06@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270606T120000
+DTEND;TZID=Europe/Copenhagen:20270606T124200
+SUMMARY:Recovery
+DESCRIPTION:7 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-52-søndag-2027-06-06@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270606T125700
+DTEND;TZID=Europe/Copenhagen:20270606T132700
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-53-mandag-2027-06-07@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270607T120000
+DTEND;TZID=Europe/Copenhagen:20270607T124800
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6x400 m @ 3:50 til 4:
+ 00/km.\nPause: 200 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 8 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-53-tirsdag-2027-06-08@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270608T120000
+DTEND;TZID=Europe/Copenhagen:20270608T124100
+SUMMARY:Rolig
+DESCRIPTION:7 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-53-tirsdag-2027-06-08@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270608T125600
+DTEND;TZID=Europe/Copenhagen:20270608T134600
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-53-onsdag-2027-06-09@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270609T120000
+DTEND;TZID=Europe/Copenhagen:20270609T130600
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n3x2 km @ 4:05 til 4:1
+ 5/km.\nPause: 0\,5 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 11 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-53-torsdag-2027-06-10@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270610T120000
+DTEND;TZID=Europe/Copenhagen:20270610T125200
+SUMMARY:Rolig
+DESCRIPTION:9 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-53-torsdag-2027-06-10@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270610T130700
+DTEND;TZID=Europe/Copenhagen:20270610T135200
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-53-fredag-2027-06-11@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270611T120000
+DTEND;TZID=Europe/Copenhagen:20270611T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-53-lørdag-2027-06-12@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270612T120000
+DTEND;TZID=Europe/Copenhagen:20270612T133300
+SUMMARY:Long
+DESCRIPTION:16 km langtur @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-53-søndag-2027-06-13@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270613T120000
+DTEND;TZID=Europe/Copenhagen:20270613T124200
+SUMMARY:Recovery
+DESCRIPTION:7 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-53-søndag-2027-06-13@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270613T125700
+DTEND;TZID=Europe/Copenhagen:20270613T132700
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-54-mandag-2027-06-14@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270614T120000
+DTEND;TZID=Europe/Copenhagen:20270614T130000
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n5x800 m @ 3:50 til 3:
+ 58/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 10 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-54-tirsdag-2027-06-15@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270615T120000
+DTEND;TZID=Europe/Copenhagen:20270615T124600
+SUMMARY:Rolig
+DESCRIPTION:8 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-54-tirsdag-2027-06-15@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270615T130100
+DTEND;TZID=Europe/Copenhagen:20270615T135100
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-54-onsdag-2027-06-16@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270616T120000
+DTEND;TZID=Europe/Copenhagen:20270616T125700
+SUMMARY:Tempo
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6 km @ 4:05 til 4:15/
+ km.\n2 km nedjog @ 5:45 til 6:15/km.\nTotal 10 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-54-torsdag-2027-06-17@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270617T120000
+DTEND;TZID=Europe/Copenhagen:20270617T125800
+SUMMARY:Rolig
+DESCRIPTION:10 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-54-torsdag-2027-06-17@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270617T131300
+DTEND;TZID=Europe/Copenhagen:20270617T135800
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-54-fredag-2027-06-18@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270618T120000
+DTEND;TZID=Europe/Copenhagen:20270618T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-54-lørdag-2027-06-19@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270619T120000
+DTEND;TZID=Europe/Copenhagen:20270619T134400
+SUMMARY:Long
+DESCRIPTION:18 km langtur @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-54-søndag-2027-06-20@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270620T120000
+DTEND;TZID=Europe/Copenhagen:20270620T124800
+SUMMARY:Recovery
+DESCRIPTION:8 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-54-søndag-2027-06-20@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270620T130300
+DTEND;TZID=Europe/Copenhagen:20270620T133300
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-55-mandag-2027-06-21@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270621T120000
+DTEND;TZID=Europe/Copenhagen:20270621T125700
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n4x1 km @ 3:55 til 4:0
+ 2/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.\
+ nTotal 9\,5 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-55-tirsdag-2027-06-22@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270622T120000
+DTEND;TZID=Europe/Copenhagen:20270622T124600
+SUMMARY:Rolig
+DESCRIPTION:8 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-55-tirsdag-2027-06-22@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270622T130100
+DTEND;TZID=Europe/Copenhagen:20270622T135100
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-55-onsdag-2027-06-23@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270623T120000
+DTEND;TZID=Europe/Copenhagen:20270623T131800
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n3x3 km @ 4:00 til 4:0
+ 8/km.\nPause: 0\,8 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 13 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-55-torsdag-2027-06-24@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270624T120000
+DTEND;TZID=Europe/Copenhagen:20270624T125200
+SUMMARY:Rolig
+DESCRIPTION:9 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-55-torsdag-2027-06-24@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270624T130700
+DTEND;TZID=Europe/Copenhagen:20270624T135200
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-55-fredag-2027-06-25@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270625T120000
+DTEND;TZID=Europe/Copenhagen:20270625T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-55-lørdag-2027-06-26@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270626T120000
+DTEND;TZID=Europe/Copenhagen:20270626T135600
+SUMMARY:Long
+DESCRIPTION:20 km langtur @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-55-søndag-2027-06-27@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270627T120000
+DTEND;TZID=Europe/Copenhagen:20270627T124800
+SUMMARY:Recovery
+DESCRIPTION:8 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-55-søndag-2027-06-27@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270627T130300
+DTEND;TZID=Europe/Copenhagen:20270627T133300
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-56-mandag-2027-06-28@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270628T120000
+DTEND;TZID=Europe/Copenhagen:20270628T130000
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n10x400 m @ 3:42 til 3
+ :52/km.\nPause: 200 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 10 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-56-tirsdag-2027-06-29@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270629T120000
+DTEND;TZID=Europe/Copenhagen:20270629T125200
+SUMMARY:Rolig
+DESCRIPTION:9 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-56-tirsdag-2027-06-29@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270629T130700
+DTEND;TZID=Europe/Copenhagen:20270629T135700
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-56-onsdag-2027-06-30@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270630T120000
+DTEND;TZID=Europe/Copenhagen:20270630T131800
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n2x4 km @ 4:00 til 4:0
+ 8/km.\nPause: 1 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.\n
+ Total 13 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-56-torsdag-2027-07-01@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270701T120000
+DTEND;TZID=Europe/Copenhagen:20270701T125800
+SUMMARY:Rolig
+DESCRIPTION:10 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-56-torsdag-2027-07-01@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270701T131300
+DTEND;TZID=Europe/Copenhagen:20270701T135800
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-56-fredag-2027-07-02@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270702T120000
+DTEND;TZID=Europe/Copenhagen:20270702T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-56-lørdag-2027-07-03@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270703T120000
+DTEND;TZID=Europe/Copenhagen:20270703T140800
+SUMMARY:Long
+DESCRIPTION:22 km langtur @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-56-søndag-2027-07-04@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270704T120000
+DTEND;TZID=Europe/Copenhagen:20270704T124800
+SUMMARY:Recovery
+DESCRIPTION:8 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-56-søndag-2027-07-04@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270704T130300
+DTEND;TZID=Europe/Copenhagen:20270704T133300
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-57-mandag-2027-07-05@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270705T120000
+DTEND;TZID=Europe/Copenhagen:20270705T131200
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6x1 km @ 3:50 til 3:5
+ 8/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.\
+ nTotal 12 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-57-tirsdag-2027-07-06@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270706T120000
+DTEND;TZID=Europe/Copenhagen:20270706T123500
+SUMMARY:Rolig
+DESCRIPTION:6 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-57-tirsdag-2027-07-06@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270706T125000
+DTEND;TZID=Europe/Copenhagen:20270706T134000
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-57-onsdag-2027-07-07@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270707T120000
+DTEND;TZID=Europe/Copenhagen:20270707T125700
+SUMMARY:Tempo
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6 km @ 4:10 til 4:20/
+ km.\n2 km nedjog @ 5:45 til 6:15/km.\nTotal 10 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-57-torsdag-2027-07-08@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270708T120000
+DTEND;TZID=Europe/Copenhagen:20270708T124100
+SUMMARY:Rolig
+DESCRIPTION:7 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-57-torsdag-2027-07-08@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270708T125600
+DTEND;TZID=Europe/Copenhagen:20270708T134100
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-57-fredag-2027-07-09@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270709T120000
+DTEND;TZID=Europe/Copenhagen:20270709T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-57-lørdag-2027-07-10@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270710T120000
+DTEND;TZID=Europe/Copenhagen:20270710T134400
+SUMMARY:Long
+DESCRIPTION:18 km langtur @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-57-søndag-2027-07-11@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270711T120000
+DTEND;TZID=Europe/Copenhagen:20270711T124200
+SUMMARY:Recovery
+DESCRIPTION:7 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-57-søndag-2027-07-11@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270711T125700
+DTEND;TZID=Europe/Copenhagen:20270711T132700
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-58-mandag-2027-07-12@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270712T120000
+DTEND;TZID=Europe/Copenhagen:20270712T131200
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n5x1\,2 km @ 3:50 til 
+ 3:58/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/k
+ m.\nTotal 12 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-58-tirsdag-2027-07-13@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270713T120000
+DTEND;TZID=Europe/Copenhagen:20270713T124600
+SUMMARY:Rolig
+DESCRIPTION:8 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-58-tirsdag-2027-07-13@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270713T130100
+DTEND;TZID=Europe/Copenhagen:20270713T135100
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-58-onsdag-2027-07-14@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270714T120000
+DTEND;TZID=Europe/Copenhagen:20270714T131200
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n4x2 km @ 3:58 til 4:0
+ 5/km.\nPause: 0\,5 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 12 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-58-torsdag-2027-07-15@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270715T120000
+DTEND;TZID=Europe/Copenhagen:20270715T125800
+SUMMARY:Rolig
+DESCRIPTION:10 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-58-torsdag-2027-07-15@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270715T131300
+DTEND;TZID=Europe/Copenhagen:20270715T135800
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-58-fredag-2027-07-16@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270716T120000
+DTEND;TZID=Europe/Copenhagen:20270716T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-58-lørdag-2027-07-17@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270717T120000
+DTEND;TZID=Europe/Copenhagen:20270717T140800
+SUMMARY:Long
+DESCRIPTION:22 km langtur @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-58-søndag-2027-07-18@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270718T120000
+DTEND;TZID=Europe/Copenhagen:20270718T124800
+SUMMARY:Recovery
+DESCRIPTION:8 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-58-søndag-2027-07-18@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270718T130300
+DTEND;TZID=Europe/Copenhagen:20270718T133300
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-59-mandag-2027-07-19@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270719T120000
+DTEND;TZID=Europe/Copenhagen:20270719T130300
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n8x600 m @ 3:45 til 3:
+ 55/km.\nPause: 300 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 10\,5 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-59-tirsdag-2027-07-20@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270720T120000
+DTEND;TZID=Europe/Copenhagen:20270720T125200
+SUMMARY:Rolig
+DESCRIPTION:9 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-59-tirsdag-2027-07-20@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270720T130700
+DTEND;TZID=Europe/Copenhagen:20270720T135700
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-59-onsdag-2027-07-21@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270721T120000
+DTEND;TZID=Europe/Copenhagen:20270721T130800
+SUMMARY:Tempo
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n8 km @ 4:00 til 4:08/
+ km.\n2 km nedjog @ 5:45 til 6:15/km.\nTotal 12 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-59-torsdag-2027-07-22@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270722T120000
+DTEND;TZID=Europe/Copenhagen:20270722T125800
+SUMMARY:Rolig
+DESCRIPTION:10 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-59-torsdag-2027-07-22@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270722T131300
+DTEND;TZID=Europe/Copenhagen:20270722T135800
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-59-fredag-2027-07-23@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270723T120000
+DTEND;TZID=Europe/Copenhagen:20270723T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-59-lørdag-2027-07-24@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270724T120000
+DTEND;TZID=Europe/Copenhagen:20270724T141900
+SUMMARY:Long
+DESCRIPTION:24 km langtur @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-59-søndag-2027-07-25@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270725T120000
+DTEND;TZID=Europe/Copenhagen:20270725T130000
+SUMMARY:Recovery
+DESCRIPTION:10 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-59-søndag-2027-07-25@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270725T131500
+DTEND;TZID=Europe/Copenhagen:20270725T134500
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-60-mandag-2027-07-26@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270726T120000
+DTEND;TZID=Europe/Copenhagen:20270726T130900
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n4x1\,5 km @ 3:55 til 
+ 4:02/km.\nPause: 500 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/k
+ m.\nTotal 11\,5 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-60-tirsdag-2027-07-27@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270727T120000
+DTEND;TZID=Europe/Copenhagen:20270727T125200
+SUMMARY:Rolig
+DESCRIPTION:9 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-60-tirsdag-2027-07-27@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270727T130700
+DTEND;TZID=Europe/Copenhagen:20270727T135700
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-60-onsdag-2027-07-28@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270728T120000
+DTEND;TZID=Europe/Copenhagen:20270728T131800
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n3x3 km @ 3:58 til 4:0
+ 5/km.\nPause: 0\,8 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 13 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-60-torsdag-2027-07-29@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270729T120000
+DTEND;TZID=Europe/Copenhagen:20270729T125800
+SUMMARY:Rolig
+DESCRIPTION:10 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-60-torsdag-2027-07-29@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270729T131300
+DTEND;TZID=Europe/Copenhagen:20270729T135800
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-60-fredag-2027-07-30@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270730T120000
+DTEND;TZID=Europe/Copenhagen:20270730T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-60-lørdag-2027-07-31@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270731T120000
+DTEND;TZID=Europe/Copenhagen:20270731T141900
+SUMMARY:Long
+DESCRIPTION:24 km langtur @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-60-søndag-2027-08-01@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270801T120000
+DTEND;TZID=Europe/Copenhagen:20270801T130000
+SUMMARY:Recovery
+DESCRIPTION:10 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-60-søndag-2027-08-01@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270801T131500
+DTEND;TZID=Europe/Copenhagen:20270801T134500
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-61-mandag-2027-08-02@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270802T120000
+DTEND;TZID=Europe/Copenhagen:20270802T130600
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n12x400 m @ 3:40 til 3
+ :50/km.\nPause: 200 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 11 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-61-tirsdag-2027-08-03@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270803T120000
+DTEND;TZID=Europe/Copenhagen:20270803T122500
+SUMMARY:Rolig
+DESCRIPTION:4 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-61-tirsdag-2027-08-03@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270803T124000
+DTEND;TZID=Europe/Copenhagen:20270803T133000
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-61-onsdag-2027-08-04@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270804T120000
+DTEND;TZID=Europe/Copenhagen:20270804T131200
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n5x1\,6 km @ 3:58 til 
+ 4:05/km.\nPause: 0\,4 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15
+ /km.\nTotal 12 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-61-torsdag-2027-08-05@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270805T120000
+DTEND;TZID=Europe/Copenhagen:20270805T123500
+SUMMARY:Rolig
+DESCRIPTION:6 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-61-torsdag-2027-08-05@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270805T125000
+DTEND;TZID=Europe/Copenhagen:20270805T133500
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-61-fredag-2027-08-06@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270806T120000
+DTEND;TZID=Europe/Copenhagen:20270806T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-61-lørdag-2027-08-07@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270807T120000
+DTEND;TZID=Europe/Copenhagen:20270807T143100
+SUMMARY:Long
+DESCRIPTION:26 km langtur @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-61-søndag-2027-08-08@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270808T120000
+DTEND;TZID=Europe/Copenhagen:20270808T123000
+SUMMARY:Recovery
+DESCRIPTION:5 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-61-søndag-2027-08-08@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270808T124500
+DTEND;TZID=Europe/Copenhagen:20270808T131500
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-62-mandag-2027-08-09@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270809T120000
+DTEND;TZID=Europe/Copenhagen:20270809T130600
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6x800 m @ 3:45 til 3:
+ 55/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 11 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-62-tirsdag-2027-08-10@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270810T120000
+DTEND;TZID=Europe/Copenhagen:20270810T131000
+SUMMARY:Rolig
+DESCRIPTION:12 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-62-tirsdag-2027-08-10@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270810T132500
+DTEND;TZID=Europe/Copenhagen:20270810T141500
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-62-onsdag-2027-08-11@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270811T120000
+DTEND;TZID=Europe/Copenhagen:20270811T125700
+SUMMARY:Tempo
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6 km @ 4:08 til 4:18/
+ km.\n2 km nedjog @ 5:45 til 6:15/km.\nTotal 10 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-62-torsdag-2027-08-12@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270812T120000
+DTEND;TZID=Europe/Copenhagen:20270812T132100
+SUMMARY:Rolig
+DESCRIPTION:14 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-62-torsdag-2027-08-12@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270812T133600
+DTEND;TZID=Europe/Copenhagen:20270812T142100
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-62-fredag-2027-08-13@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270813T120000
+DTEND;TZID=Europe/Copenhagen:20270813T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-62-lørdag-2027-08-14@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270814T120000
+DTEND;TZID=Europe/Copenhagen:20270814T135600
+SUMMARY:Long
+DESCRIPTION:20 km langtur @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-62-søndag-2027-08-15@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270815T120000
+DTEND;TZID=Europe/Copenhagen:20270815T130600
+SUMMARY:Recovery
+DESCRIPTION:11 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-62-søndag-2027-08-15@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270815T132100
+DTEND;TZID=Europe/Copenhagen:20270815T135100
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-63-mandag-2027-08-16@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270816T120000
+DTEND;TZID=Europe/Copenhagen:20270816T130300
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n4x1\,2 km @ 3:50 til 
+ 3:58/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/k
+ m.\nTotal 10\,5 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-63-tirsdag-2027-08-17@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270817T120000
+DTEND;TZID=Europe/Copenhagen:20270817T124600
+SUMMARY:Rolig
+DESCRIPTION:8 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-63-tirsdag-2027-08-17@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270817T130100
+DTEND;TZID=Europe/Copenhagen:20270817T135100
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-63-onsdag-2027-08-18@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270818T120000
+DTEND;TZID=Europe/Copenhagen:20270818T131200
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n4x2 km @ 3:58 til 4:0
+ 5/km.\nPause: 0\,5 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 12 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-63-torsdag-2027-08-19@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270819T120000
+DTEND;TZID=Europe/Copenhagen:20270819T125200
+SUMMARY:Rolig
+DESCRIPTION:9 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-63-torsdag-2027-08-19@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270819T130700
+DTEND;TZID=Europe/Copenhagen:20270819T135200
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-63-fredag-2027-08-20@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270820T120000
+DTEND;TZID=Europe/Copenhagen:20270820T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-63-lørdag-2027-08-21@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270821T120000
+DTEND;TZID=Europe/Copenhagen:20270821T144200
+SUMMARY:Long
+DESCRIPTION:28 km langtur @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-63-søndag-2027-08-22@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270822T120000
+DTEND;TZID=Europe/Copenhagen:20270822T124800
+SUMMARY:Recovery
+DESCRIPTION:8 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-63-søndag-2027-08-22@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270822T130300
+DTEND;TZID=Europe/Copenhagen:20270822T133300
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-64-mandag-2027-08-23@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270823T120000
+DTEND;TZID=Europe/Copenhagen:20270823T130600
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n5x1 km @ 3:50 til 4:0
+ 0/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.\
+ nTotal 11 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-64-tirsdag-2027-08-24@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270824T120000
+DTEND;TZID=Europe/Copenhagen:20270824T122900
+SUMMARY:Rolig
+DESCRIPTION:5 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-64-tirsdag-2027-08-24@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270824T124400
+DTEND;TZID=Europe/Copenhagen:20270824T133400
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-64-onsdag-2027-08-25@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270825T120000
+DTEND;TZID=Europe/Copenhagen:20270825T132000
+SUMMARY:Tempo
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n10 km @ 4:15 til 4:25
+ /km.\n2 km nedjog @ 5:45 til 6:15/km.\nTotal 14 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-64-torsdag-2027-08-26@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270826T120000
+DTEND;TZID=Europe/Copenhagen:20270826T123500
+SUMMARY:Rolig
+DESCRIPTION:6 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-64-torsdag-2027-08-26@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270826T125000
+DTEND;TZID=Europe/Copenhagen:20270826T133500
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-64-fredag-2027-08-27@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270827T120000
+DTEND;TZID=Europe/Copenhagen:20270827T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-64-lørdag-2027-08-28@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270828T120000
+DTEND;TZID=Europe/Copenhagen:20270828T141900
+SUMMARY:Long
+DESCRIPTION:24 km langtur @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-64-søndag-2027-08-29@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270829T120000
+DTEND;TZID=Europe/Copenhagen:20270829T123600
+SUMMARY:Recovery
+DESCRIPTION:6 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-64-søndag-2027-08-29@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270829T125100
+DTEND;TZID=Europe/Copenhagen:20270829T132100
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-65-mandag-2027-08-30@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270830T120000
+DTEND;TZID=Europe/Copenhagen:20270830T130600
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6x800 m @ 3:50 til 4:
+ 00/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 11 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-65-tirsdag-2027-08-31@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270831T120000
+DTEND;TZID=Europe/Copenhagen:20270831T123500
+SUMMARY:Rolig
+DESCRIPTION:6 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-65-tirsdag-2027-08-31@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270831T125000
+DTEND;TZID=Europe/Copenhagen:20270831T134000
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-65-onsdag-2027-09-01@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270901T120000
+DTEND;TZID=Europe/Copenhagen:20270901T131800
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n3x3 km @ 4:05 til 4:1
+ 2/km.\nPause: 0\,8 km jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km
+ .\nTotal 13 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-65-torsdag-2027-09-02@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270902T120000
+DTEND;TZID=Europe/Copenhagen:20270902T124100
+SUMMARY:Rolig
+DESCRIPTION:7 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-65-torsdag-2027-09-02@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270902T125600
+DTEND;TZID=Europe/Copenhagen:20270902T134100
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-65-fredag-2027-09-03@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270903T120000
+DTEND;TZID=Europe/Copenhagen:20270903T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-65-lørdag-2027-09-04@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270904T120000
+DTEND;TZID=Europe/Copenhagen:20270904T144200
+SUMMARY:Long
+DESCRIPTION:28 km langtur.\n10 km @ 4:35 til 4:50/km midt i turen.\nRe
+ sten @ 5:15 til 5:50/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-65-søndag-2027-09-05@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270905T120000
+DTEND;TZID=Europe/Copenhagen:20270905T124200
+SUMMARY:Recovery
+DESCRIPTION:7 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-65-søndag-2027-09-05@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270905T125700
+DTEND;TZID=Europe/Copenhagen:20270905T132700
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-66-mandag-2027-09-06@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270906T120000
+DTEND;TZID=Europe/Copenhagen:20270906T130600
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n5x1 km @ 3:55 til 4:0
+ 5/km.\nPause: 400 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.\
+ nTotal 11 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-66-tirsdag-2027-09-07@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270907T120000
+DTEND;TZID=Europe/Copenhagen:20270907T122500
+SUMMARY:Rolig
+DESCRIPTION:4 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-66-tirsdag-2027-09-07@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270907T124000
+DTEND;TZID=Europe/Copenhagen:20270907T133000
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-66-onsdag-2027-09-08@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270908T120000
+DTEND;TZID=Europe/Copenhagen:20270908T132000
+SUMMARY:Tempo
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n10 km @ 4:35 til 4:50
+ /km.\n2 km nedjog @ 5:45 til 6:15/km.\nTotal 14 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-66-torsdag-2027-09-09@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270909T120000
+DTEND;TZID=Europe/Copenhagen:20270909T123500
+SUMMARY:Rolig
+DESCRIPTION:6 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-66-torsdag-2027-09-09@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270909T125000
+DTEND;TZID=Europe/Copenhagen:20270909T133500
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-66-fredag-2027-09-10@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270910T120000
+DTEND;TZID=Europe/Copenhagen:20270910T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-66-lørdag-2027-09-11@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270911T120000
+DTEND;TZID=Europe/Copenhagen:20270911T140800
+SUMMARY:Long
+DESCRIPTION:22 km langtur.\n12 km @ 4:35 til 4:50/km midt i turen.\nRe
+ sten @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-66-søndag-2027-09-12@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270912T120000
+DTEND;TZID=Europe/Copenhagen:20270912T123000
+SUMMARY:Recovery
+DESCRIPTION:5 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-66-søndag-2027-09-12@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270912T124500
+DTEND;TZID=Europe/Copenhagen:20270912T131500
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-67-mandag-2027-09-13@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270913T120000
+DTEND;TZID=Europe/Copenhagen:20270913T124800
+SUMMARY:Interval
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6x400 m @ 3:50 til 4:
+ 00/km.\nPause: 200 m jog mellem reps.\n2 km nedjog @ 5:45 til 6:15/km.
+ \nTotal 8 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-67-tirsdag-2027-09-14@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270914T120000
+DTEND;TZID=Europe/Copenhagen:20270914T123500
+SUMMARY:Rolig
+DESCRIPTION:6 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-67-tirsdag-2027-09-14@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270914T125000
+DTEND;TZID=Europe/Copenhagen:20270914T134000
+SUMMARY:Styrke
+DESCRIPTION:Styrke ben A.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-67-onsdag-2027-09-15@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270915T120000
+DTEND;TZID=Europe/Copenhagen:20270915T125700
+SUMMARY:Tempo
+DESCRIPTION:2 km opvarmning @ 5:35 til 6:05/km.\n6 km @ 4:35 til 4:50/
+ km.\n2 km nedjog @ 5:45 til 6:15/km.\nTotal 10 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-67-torsdag-2027-09-16@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270916T120000
+DTEND;TZID=Europe/Copenhagen:20270916T124100
+SUMMARY:Rolig
+DESCRIPTION:7 km roligt @ 5:20 til 5:55/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-67-torsdag-2027-09-16@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270916T125600
+DTEND;TZID=Europe/Copenhagen:20270916T134100
+SUMMARY:Styrke
+DESCRIPTION:Styrke overkrop B.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-67-fredag-2027-09-17@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270917T120000
+DTEND;TZID=Europe/Copenhagen:20270917T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-67-lørdag-2027-09-18@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270918T120000
+DTEND;TZID=Europe/Copenhagen:20270918T133300
+SUMMARY:Long
+DESCRIPTION:16 km langtur.\n6 km @ 4:35 til 4:50/km midt i turen.\nRes
+ ten @ 5:30 til 6:00/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-67-søndag-2027-09-19@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270919T120000
+DTEND;TZID=Europe/Copenhagen:20270919T123000
+SUMMARY:Recovery
+DESCRIPTION:5 km recovery @ 5:45 til 6:15/km.\n6x20 sek strides.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-67-søndag-2027-09-19@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270919T124500
+DTEND;TZID=Europe/Copenhagen:20270919T131500
+SUMMARY:Styrke
+DESCRIPTION:Core og prehab C.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-68-mandag-2027-09-20@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270920T120000
+DTEND;TZID=Europe/Copenhagen:20270920T123000
+SUMMARY:Interval
+DESCRIPTION:1\,5 km opvarmning @ 5:35 til 6:05/km.\n4x400 m @ 3:55 til
+  4:05/km.\nPause: 200 m jog mellem reps.\n1\,5 km nedjog @ 5:45 til 6:
+ 15/km.\nTotal 5 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-68-tirsdag-2027-09-21@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270921T120000
+DTEND;TZID=Europe/Copenhagen:20270921T123500
+SUMMARY:Rolig
+DESCRIPTION:6 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-68-tirsdag-2027-09-21@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270921T125000
+DTEND;TZID=Europe/Copenhagen:20270921T133000
+SUMMARY:Styrke
+DESCRIPTION:Let styrke A 50 procent belastning.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-68-onsdag-2027-09-22@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270922T120000
+DTEND;TZID=Europe/Copenhagen:20270922T122900
+SUMMARY:Rolig
+DESCRIPTION:5 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-68-torsdag-2027-09-23@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270923T120000
+DTEND;TZID=Europe/Copenhagen:20270923T122900
+SUMMARY:Rolig
+DESCRIPTION:5 km roligt @ 5:35 til 6:05/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-68-torsdag-2027-09-23@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270923T124400
+DTEND;TZID=Europe/Copenhagen:20270923T130400
+SUMMARY:Mobilitet
+DESCRIPTION:Let mobilitet og aktivering.
+END:VEVENT
+BEGIN:VEVENT
+UID:strength-uge-68-fredag-2027-09-24@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270924T120000
+DTEND;TZID=Europe/Copenhagen:20270924T122000
+SUMMARY:Mobilitet
+DESCRIPTION:10 til 15 min mobilitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-68-lørdag-2027-09-25@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270925T120000
+DTEND;TZID=Europe/Copenhagen:20270925T122500
+SUMMARY:Rolig
+DESCRIPTION:4 km roligt @ 5:45 til 6:15/km.
+END:VEVENT
+BEGIN:VEVENT
+UID:run-uge-68-søndag-2027-09-26@traening-automation
+DTSTAMP:20260609T225212Z
+DTSTART;TZID=Europe/Copenhagen:20270926T120000
+DTEND;TZID=Europe/Copenhagen:20270926T122500
+SUMMARY:Race
+DESCRIPTION:Berlin Marathon.\nMålpace 4:37 til 4:58/km.\nFørste 5 km
+  roligere end målpace.\nEnergi efter raceplan.
+END:VEVENT
+END:VCALENDAR
